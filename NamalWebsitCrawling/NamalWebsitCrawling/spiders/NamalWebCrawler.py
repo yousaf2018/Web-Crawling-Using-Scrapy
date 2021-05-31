@@ -3,11 +3,12 @@ from urllib.parse import urljoin
 import pandas as pd
 from itertools import chain
 class ProductsSpider(scrapy.Spider):
+    #Counter for creating numbering the csv files for each document
+    counter = 0
     name = "NamalWebCrawling"
     start_urls = [
         'https://www.namal.edu.pk/',
     ]
-
     def parse(self, response):
         products = response.css('a::attr(href)').extract()
         for p in products:
@@ -15,6 +16,9 @@ class ProductsSpider(scrapy.Spider):
             yield scrapy.Request(url, callback=self.parse_product)
 
     def parse_product(self, response):
+        #Getting the current url 
+        current_url = []
+        current_url.append(response.request.url)
         #Extracting title of website 
         Title = []
         Title.append(response.xpath('//title/text()').get())
@@ -59,7 +63,7 @@ class ProductsSpider(scrapy.Spider):
             Heading2.append(Heading_2)
         Heading2 = [_ for i in range(len(Heading2)) for _ in Heading2[i]]
         #Setting same size of each list for pandas dataframe
-        arrays = [Title,Links,Images_with_url,Paragraph,Heading1,Heading2,Heading3,Heading4,Heading5]
+        arrays = [current_url,Title,Links,Images_with_url,Paragraph,Heading1,Heading2,Heading3,Heading4,Heading5]
         max_length = 0
         for array in arrays:
             max_length = max(max_length, len(array))
@@ -67,7 +71,8 @@ class ProductsSpider(scrapy.Spider):
         for array in arrays:
             array += [' '] * (max_length - len(array))
         #Creating pandas dataframe for holding data in structured way
-        df = pd.DataFrame(list(zip(Title,Links,Images_with_url,Paragraph,Heading1,Heading2,Heading3,Heading4,Heading5)),
-            columns = ['Title','Links','Images_with_url','Paragraph','Heading1','Heading2','Heading3','Heading4','Heading5'])        
-        with open('NamalWebCrawling_by_Scrapy.csv', 'a') as f:
-            df.to_csv(f, header=False)
+        df = pd.DataFrame(list(zip(current_url,Title,Links,Images_with_url,Paragraph,Heading1,Heading2,Heading3,Heading4,Heading5)),
+            columns = ['Current_Page_Url','Title','Links','Images_with_url','Paragraph','Heading1','Heading2','Heading3','Heading4','Heading5'])        
+        df.to_csv(f'Doc{self.counter}.csv',mode = 'a')
+        print(self.counter)
+        self.counter = self.counter + 1
