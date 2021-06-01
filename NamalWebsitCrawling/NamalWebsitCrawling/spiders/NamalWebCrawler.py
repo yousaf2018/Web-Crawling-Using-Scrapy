@@ -11,6 +11,7 @@ class ProductsSpider(scrapy.Spider):
     ]
     def parse(self, response):
         products = response.css('a::attr(href)').extract()
+        yield scrapy.Request('https://www.namal.edu.pk/', callback=self.parse_product)
         for p in products:
             url = urljoin(response.url, p)
             yield scrapy.Request(url, callback=self.parse_product)
@@ -30,13 +31,17 @@ class ProductsSpider(scrapy.Spider):
         Paragraph = response.xpath('//p/text()').getall()
         #Extracting all div than look for h1
         divs = response.xpath('//div')
-
+        #Extracting all div than look for Unorder list data
+        UnorderList = response.xpath('//ul//text()').getall()
+        print(UnorderList)
+        #Extracting all div than look for Table data
+        TableData = response.xpath('//table//text()').getall()
+        print(TableData)
         Heading1 = []
         Heading2 = []
         Heading3 = []
         Heading4 = []
         Heading5 = []
-
         for h1 in divs.xpath('h1/text()'):
             Heading_1 = h1.getall()
             Heading1.append(Heading_1)
@@ -62,8 +67,9 @@ class ProductsSpider(scrapy.Spider):
             Heading_2 = h2.getall()
             Heading2.append(Heading_2)
         Heading2 = [_ for i in range(len(Heading2)) for _ in Heading2[i]]
+
         #Setting same size of each list for pandas dataframe
-        arrays = [current_url,Title,Links,Images_with_url,Paragraph,Heading1,Heading2,Heading3,Heading4,Heading5]
+        arrays = [current_url,Title,Links,Images_with_url,Paragraph,Heading1,Heading2,Heading3,Heading4,Heading5,UnorderList,TableData]
         max_length = 0
         for array in arrays:
             max_length = max(max_length, len(array))
@@ -71,8 +77,8 @@ class ProductsSpider(scrapy.Spider):
         for array in arrays:
             array += [' '] * (max_length - len(array))
         #Creating pandas dataframe for holding data in structured way
-        df = pd.DataFrame(list(zip(current_url,Title,Links,Images_with_url,Paragraph,Heading1,Heading2,Heading3,Heading4,Heading5)),
-            columns = ['Current_Page_Url','Title','Links','Images_with_url','Paragraph','Heading1','Heading2','Heading3','Heading4','Heading5'])        
+        df = pd.DataFrame(list(zip(current_url,Title,Links,Images_with_url,Paragraph,Heading1,Heading2,Heading3,Heading4,Heading5,UnorderList,TableData)),
+            columns = ['Current_Page_Url','Title','Links','Images_with_url','Paragraph','Heading1','Heading2','Heading3','Heading4','Heading5','UnorderList','TableData'])        
         df.to_csv(f'Doc{self.counter}.csv',mode = 'a')
         print(self.counter)
         self.counter = self.counter + 1

@@ -1,88 +1,824 @@
-,Current_Page_Url,Title,Links,Images_with_url,Paragraph,Heading1,Heading2,Heading3,Heading4,Heading5
-0,https://namal.edu.pk/namal-knowledge-city,Namal Institute,https://namal.edu.pk/,https://namal.edu.pk/uploads/logo22869383.png,Please visit our fundraising website below:,About, , ,"
-	An Inspiration, A Dream",To Contribute
-1, , ,https://namal.edu.pk/academic-calendar,https://www.namalknowledgecity.com/assets/aboutUsImages/aboutUsImage_1.jpg,"
-	Developed nations across the world have relied on knowledge as the engine of growth. Throughout history knowledge cities like Oxford and Cambridge Universities have led to economic prosperity, technological breakthroughs, and cultural and social welfare. Even after hundreds of years these cities thrive with knowledge as foundation stone. Namal Knowledge City is an ambitious project that carries on this example of creating a knowledge economy in the heart of Pakistan.","
-	Namal Knowledge City", , , ,"
-					Visiting Namal"
-2, , ,https://namal.edu.pk/people#faculty,/ckEditorImages/uploads/userfiles/namal knowledge city.jpg,"
-	It will be the first project of its kind in the country bringing together knowledge workers from all over the world to constitute one of Pakistan’s largest consortiums to acquire, create, disseminate, and utilize knowledge. A key feature will be the sustainable development of the knowledge city and communities in Pakistan at large.", , , , ,"
-					Important Links"
-3, , ,https://namal.edu.pk/quality-enhancement-cell,https://namal.edu.pk/uploads/logo4980416.png,"
-	Major construction work on the city is expected to be completed by the year 2027. The knowledge city will include academic blocks, libraries, technology parks, business centers, dairy farms, primary and secondary schools, sports facilities, a hospital, shopping centers, hotels, and housing colony for staff, faculty and students. By year 2023 the knowledge city will complete the first phase of its development whereby it will accommodate 800 students and 50 faculty members.", , , , ,"
-					Resources"
+,Current_Page_Url,Title,Links,Images_with_url,Paragraph,Heading1,Heading2,Heading3,Heading4,Heading5,UnorderList,TableData
+0,https://namal.edu.pk/admission-timeline,Namal Institute,https://namal.edu.pk/,https://namal.edu.pk/uploads/logo22869383.png,Please visit our fundraising website below:,Admissions, , , ,To Contribute,"
+    ", 
+1, , ,https://namal.edu.pk/academic-calendar,https://namal.edu.pk/uploads/logo4980416.png,"
+				March 10, 2021","
+	Admission Timeline", , , ,"
+				",Academic Calendar, 
+2, , ,https://namal.edu.pk/people#faculty, ,"
+				August 20, 2021", , , , ,"
+				","
+    ", 
+3, , ,https://namal.edu.pk/quality-enhancement-cell, ,"
+	 ", , , , ,"
+					Visiting Namal",|, 
 4, , ,https://lms.namal.edu.pk/, ,"
-	 ", , , , , 
-5, , ,http://library.namal.edu.pk/, , , , , , , 
-6, , ,https://namal.edu.pk/contact-us, , , , , , , 
-7, , ,#about, , , , , , , 
-8, , ,https://namal.edu.pk/chairmans-message, , , , , , , 
-9, , ,https://namal.edu.pk/vision-and-mission, , , , , , , 
-10, , ,https://namal.edu.pk/core-values, , , , , , , 
-11, , ,https://namal.edu.pk/the-namal-story, , , , , , , 
-12, , ,https://namal.edu.pk/namal-knowledge-city, , , , , , , 
-13, , ,https://namal.edu.pk/people, , , , , , , 
-14, , ,https://namal.edu.pk/quality-enhancement-cell, , , , , , , 
-15, , ,#academics, , , , , , , 
-16, , ,https://namal.edu.pk/academic-calendar, , , , , , , 
-17, , ,https://namal.edu.pk/student-handbook, , , , , , , 
-18, , ,#departments, , , , , , , 
-19, , ,#, , , , , , , 
-20, , ,https://namal.edu.pk/department-of-electrical-engineering, , , , , , , 
-21, , ,https://namal.edu.pk/department-of-computer-science, , , , , , , 
-22, , ,https://namal.edu.pk/department-of-business-studies, , , , , , , 
-23, , ,https://namal.edu.pk/department-of-mathematics, , , , , , , 
-24, , ,#, , , , , , , 
-25, , ,https://namal.edu.pk/office-of-the-registrar, , , , , , , 
-26, , ,https://namal.edu.pk/office-of-the-coe, , , , , , , 
-27, , ,https://namal.edu.pk/office-of-the-treasurer, , , , , , , 
-28, , ,#admissions, , , , , , , 
-29, , ,https://namal.edu.pk/apply, , , , , , , 
-30, , ,https://namal.edu.pk/why-namal, , , , , , , 
-31, , ,https://namal.edu.pk/admission-timeline, , , , , , , 
-32, , ,https://namal.edu.pk/admission-criteria, , , , , , , 
-33, , ,https://namal.edu.pk/entry-test-guidelines, , , , , , , 
-34, , ,https://namal.edu.pk/financial-aid, , , , , , , 
-35, , ,https://namal.edu.pk/fee-structure, , , , , , , 
-36, , ,https://namal.edu.pk/deposit-slip, , , , , , , 
-37, , ,https://namal.edu.pk/faqs, , , , , , , 
-38, , ,#life-at-namal, , , , , , , 
-39, , ,https://namal.edu.pk/workshops-and-seminars, , , , , , , 
-40, , ,https://namal.edu.pk/facilities, , , , , , , 
-41, , ,https://namal.edu.pk/green-namal, , , , , , , 
-42, , ,https://namal.edu.pk/news-events, , , , , , , 
-43, , ,https://namal.edu.pk/apply, , , , , , , 
-44, , ,, , , , , , , 
-45, , ,https://www.namalknowledgecity.com/, , , , , , , 
-46, , ,https://namal.edu.pk/academic-calendar, , , , , , , 
-47, , ,https://namal.edu.pk/people#faculty, , , , , , , 
-48, , ,https://namal.edu.pk/quality-enhancement-cell, , , , , , , 
-49, , ,https://lms.namal.edu.pk/, , , , , , , 
-50, , ,http://library.namal.edu.pk/, , , , , , , 
-51, , ,https://namal.edu.pk/contact-us, , , , , , , 
-52, , ,https://namal.edu.pk/chairmans-message, , , , , , , 
-53, , ,https://namal.edu.pk/vision-and-mission, , , , , , , 
-54, , ,https://namal.edu.pk/core-values, , , , , , , 
-55, , ,https://namal.edu.pk/the-namal-story, , , , , , , 
-56, , ,https://namal.edu.pk/namal-knowledge-city, , , , , , , 
-57, , ,https://namal.edu.pk/people, , , , , , , 
-58, , ,https://namal.edu.pk/quality-enhancement-cell, , , , , , , 
-59, , ,#, , , , , , , 
-60, , ,#, , , , , , , 
-61, , ,/, , , , , , , 
-62, , ,https://www.namalknowledgecity.com, , , , , , , 
-63, , ,https://namal.edu.pk/apply, , , , , , , 
-64, , ,/academic-calendar, , , , , , , 
-65, , ,, , , , , , , 
-66, , ,/people#faculty, , , , , , , 
-67, , ,https://nulms.namal.edu.pk, , , , , , , 
-68, , ,http://library.namal.edu.pk, , , , , , , 
-69, , ,#!, , , , , , , 
-70, , ,/facilities, , , , , , , 
-71, , ,https://www.facebook.com/NAmalInstitute/, , , , , , , 
-72, , ,https://twitter.com/namaledu, , , , , , , 
-73, , ,https://www.instagram.com/namalknowledgecity/, , , , , , , 
-74, , ,mailto:info@namal.edu.pk, , , , , , , 
-75, , ,https://www.youtube.com/channel/UCWfFHczAYAn-mfqMgmmKsVQ, , , , , , , 
-76, , ,https://forecast7.com/en/32d6771d81/namal/, , , , , , , 
-77, , ,https://namal.edu.pk/, , , , , , , 
+	", , , , ,"
+					Important Links","   
+    ", 
+5, , ,http://library.namal.edu.pk/, ,The Institute reserves the right to change dates and deadlines for admissions. Please keep informed of any changes by visiting , , , , ,"
+					Resources",Faculty, 
+6, , ,https://namal.edu.pk/contact-us, , periodically as well as the Namal online application., , , , , ,"
+    ", 
+7, , ,#about, , , , , , , ,|, 
+8, , ,https://namal.edu.pk/chairmans-message, , , , , , , ,"
+    ", 
+9, , ,https://namal.edu.pk/vision-and-mission, , , , , , , ,QEC, 
+10, , ,https://namal.edu.pk/core-values, , , , , , , ,"
+    ", 
+11, , ,https://namal.edu.pk/the-namal-story, , , , , , , ,|, 
+12, , ,https://namal.edu.pk/namal-knowledge-city, , , , , , , ,"
+    ", 
+13, , ,https://namal.edu.pk/people, , , , , , , ,NULMS, 
+14, , ,https://namal.edu.pk/quality-enhancement-cell, , , , , , , ,"
+    ", 
+15, , ,#academics, , , , , , , ,|, 
+16, , ,https://namal.edu.pk/academic-calendar, , , , , , , ,"
+    ", 
+17, , ,https://namal.edu.pk/student-handbook, , , , , , , ,Library, 
+18, , ,#departments, , , , , , , ,"
+    ", 
+19, , ,#, , , , , , , ,|, 
+20, , ,https://namal.edu.pk/department-of-electrical-engineering, , , , , , , ,"
+    ", 
+21, , ,https://namal.edu.pk/department-of-computer-science, , , , , , , ,Contact Us, 
+22, , ,https://namal.edu.pk/department-of-business-studies, , , , , , , ,"
+", 
+23, , ,https://namal.edu.pk/department-of-mathematics, , , , , , , ,"
+        ", 
+24, , ,#, , , , , , , ,About        , 
+25, , ,https://namal.edu.pk/office-of-the-registrar, , , , , , , ,        , 
+26, , ,https://namal.edu.pk/office-of-the-coe, , , , , , , ,"
+                ", 
+27, , ,https://namal.edu.pk/office-of-the-treasurer, , , , , , , ,"
+
+                      ", 
+28, , ,#admissions, , , , , , , ,Chairman's Message, 
+29, , ,https://namal.edu.pk/apply, , , , , , , ,"
+                            ", 
+30, , ,https://namal.edu.pk/why-namal, , , , , , , ,Vision And Mission, 
+31, , ,https://namal.edu.pk/admission-timeline, , , , , , , ,"
+                            ", 
+32, , ,https://namal.edu.pk/admission-criteria, , , , , , , ,Core Values, 
+33, , ,https://namal.edu.pk/entry-test-guidelines, , , , , , , ,"
+                            ", 
+34, , ,https://namal.edu.pk/financial-aid, , , , , , , ,The Namal Story, 
+35, , ,https://namal.edu.pk/fee-structure, , , , , , , ,"
+                            ", 
+36, , ,https://namal.edu.pk/deposit-slip, , , , , , , ,Namal Knowledge City, 
+37, , ,https://namal.edu.pk/faqs, , , , , , , ,"
+                            ", 
+38, , ,#life-at-namal, , , , , , , ,People, 
+39, , ,https://namal.edu.pk/workshops-and-seminars, , , , , , , ,"
+                            ", 
+40, , ,https://namal.edu.pk/facilities, , , , , , , ,Quality Enhancement Cell, 
+41, , ,https://namal.edu.pk/green-namal, , , , , , , ,"
+                      ", 
+42, , ,https://namal.edu.pk/news-events, , , , , , , ,"	
+            ", 
+43, , ,https://namal.edu.pk/apply, , , , , , , ,"
+        ", 
+44, , ,, , , , , , , ,Academics        , 
+45, , ,https://www.namalknowledgecity.com/, , , , , , , ,        , 
+46, , ,https://namal.edu.pk/academic-calendar, , , , , , , ,"
+                ", 
+47, , ,https://namal.edu.pk/people#faculty, , , , , , , ,"
+
+                      ", 
+48, , ,https://namal.edu.pk/quality-enhancement-cell, , , , , , , ,Academic Calendar, 
+49, , ,https://lms.namal.edu.pk/, , , , , , , ,"
+                            ", 
+50, , ,http://library.namal.edu.pk/, , , , , , , ,Student Handbook, 
+51, , ,https://namal.edu.pk/contact-us, , , , , , , ,"
+                      ", 
+52, , ,https://namal.edu.pk/apply, , , , , , , ,"	
+            ", 
+53, , ,https://namal.edu.pk/why-namal, , , , , , , ,"
+        ", 
+54, , ,https://namal.edu.pk/admission-timeline, , , , , , , ,Departments        , 
+55, , ,https://namal.edu.pk/admission-criteria, , , , , , , ,        , 
+56, , ,https://namal.edu.pk/entry-test-guidelines, , , , , , , ,"
+                ", 
+57, , ,https://namal.edu.pk/financial-aid, , , , , , , ,"
+
+                      ", 
+58, , ,https://namal.edu.pk/fee-structure, , , , , , , ,Academic Departments, 
+59, , ,https://namal.edu.pk/deposit-slip, , , , , , , ,"
+              ", 
+60, , ,https://namal.edu.pk/faqs, , , , , , , ,"
+                            ", 
+61, , ,#, , , , , , , ,Department Of Electrical Engineering, 
+62, , ,#, , , , , , , ,"
+                            ", 
+63, , ,/, , , , , , , ,Department Of Computer Science, 
+64, , ,https://www.namalknowledgecity.com, , , , , , , ,"
+                            ", 
+65, , ,https://namal.edu.pk/apply, , , , , , , ,Department Of Business Studies, 
+66, , ,/academic-calendar, , , , , , , ,"
+                            ", 
+67, , ,, , , , , , , ,Department Of Mathematics, 
+68, , ,/people#faculty, , , , , , , ,"
+                            ", 
+69, , ,https://nulms.namal.edu.pk, , , , , , , ,"
+              
+              ", 
+70, , ,http://library.namal.edu.pk, , , , , , , ,"
+                            ", 
+71, , ,#!, , , , , , , ,Administrative Departments, 
+72, , ,/facilities, , , , , , , ,"
+              ", 
+73, , ,https://www.facebook.com/NAmalInstitute/, , , , , , , ,"
+                            ", 
+74, , ,https://twitter.com/namaledu, , , , , , , ,Office Of The Registrar, 
+75, , ,https://www.instagram.com/namalknowledgecity/, , , , , , , ,"
+                            ", 
+76, , ,mailto:info@namal.edu.pk, , , , , , , ,Office Of The CoE, 
+77, , ,https://www.youtube.com/channel/UCWfFHczAYAn-mfqMgmmKsVQ, , , , , , , ,"
+                            ", 
+78, , ,https://forecast7.com/en/32d6771d81/namal/, , , , , , , ,Office Of The Treasurer, 
+79, , ,https://namal.edu.pk/, , , , , , , ,"
+                            ", 
+80, , , , , , , , , , ,"
+              
+              ", 
+81, , , , , , , , , , ,"
+                      ", 
+82, , , , , , , , , , ,"	
+            ", 
+83, , , , , , , , , , ,"
+        ", 
+84, , , , , , , , , , ,Admissions        , 
+85, , , , , , , , , , ,        , 
+86, , , , , , , , , , ,"
+                ", 
+87, , , , , , , , , , ,"
+
+                      ", 
+88, , , , , , , , , , ,Apply Now, 
+89, , , , , , , , , , ,"
+                            ", 
+90, , , , , , , , , , ,Why Namal?, 
+91, , , , , , , , , , ,"
+                            ", 
+92, , , , , , , , , , ,Admission Timeline, 
+93, , , , , , , , , , ,"
+                            ", 
+94, , , , , , , , , , ,Admission Criteria, 
+95, , , , , , , , , , ,"
+                            ", 
+96, , , , , , , , , , ,Entry Test Guidelines, 
+97, , , , , , , , , , ,"
+                            ", 
+98, , , , , , , , , , ,Financial Aid, 
+99, , , , , , , , , , ,"
+                            ", 
+100, , , , , , , , , , ,Fee Structure, 
+101, , , , , , , , , , ,"
+                            ", 
+102, , , , , , , , , , ,Deposit Slip, 
+103, , , , , , , , , , ,"
+                            ", 
+104, , , , , , , , , , ,FAQs, 
+105, , , , , , , , , , ,"
+                      ", 
+106, , , , , , , , , , ,"	
+            ", 
+107, , , , , , , , , , ,"
+        ", 
+108, , , , , , , , , , ,Life At Namal        , 
+109, , , , , , , , , , ,        , 
+110, , , , , , , , , , ,"
+                ", 
+111, , , , , , , , , , ,"
+
+                      ", 
+112, , , , , , , , , , ,Workshops And Seminars, 
+113, , , , , , , , , , ,"
+                            ", 
+114, , , , , , , , , , ,Facilities, 
+115, , , , , , , , , , ,"
+                            ", 
+116, , , , , , , , , , ,Green Namal, 
+117, , , , , , , , , , ,"
+                      ", 
+118, , , , , , , , , , ,"	
+            ", 
+119, , , , , , , , , , ,"
+        ", 
+120, , , , , , , , , , ,News & Events                , 
+121, , , , , , , , , , ,"
+            ", 
+122, , , , , , , , , , ,"
+        ", 
+123, , , , , , , , , , ,Apply Online                , 
+124, , , , , , , , , , ,"
+            ", 
+125, , , , , , , , , , ,"
+        ", 
+126, , , , , , , , , , ,Contribute, 
+127, , , , , , , , , , ,"
+    ", 
+128, , , , , , , , , , ,"
+", 
+129, , , , , , , , , , ,"
+    ", 
+130, , , , , , , , , , ,Academic Calendar, 
+131, , , , , , , , , , ,"
+    ", 
+132, , , , , , , , , , ,|, 
+133, , , , , , , , , , ,"   
+    ", 
+134, , , , , , , , , , ,Faculty, 
+135, , , , , , , , , , ,"
+    ", 
+136, , , , , , , , , , ,|, 
+137, , , , , , , , , , ,"
+    ", 
+138, , , , , , , , , , ,QEC, 
+139, , , , , , , , , , ,"
+    ", 
+140, , , , , , , , , , ,|, 
+141, , , , , , , , , , ,"
+    ", 
+142, , , , , , , , , , ,NULMS, 
+143, , , , , , , , , , ,"
+    ", 
+144, , , , , , , , , , ,|, 
+145, , , , , , , , , , ,"
+    ", 
+146, , , , , , , , , , ,Library, 
+147, , , , , , , , , , ,"
+    ", 
+148, , , , , , , , , , ,|, 
+149, , , , , , , , , , ,"
+    ", 
+150, , , , , , , , , , ,Contact Us, 
+151, , , , , , , , , , ,"
+", 
+152, , , , , , , , , , ,"
+                          
+            ", 
+153, , , , , , , , , , ,"
+              Apply Now", 
+154, , , , , , , , , , ,"
+                          
+            ", 
+155, , , , , , , , , , ,"
+              Why Namal?", 
+156, , , , , , , , , , ,"
+                          
+            ", 
+157, , , , , , , , , , ,"
+              Admission Timeline", 
+158, , , , , , , , , , ,"
+                          
+            ", 
+159, , , , , , , , , , ,"
+              Admission Criteria", 
+160, , , , , , , , , , ,"
+                          
+            ", 
+161, , , , , , , , , , ,"
+              Entry Test Guidelines", 
+162, , , , , , , , , , ,"
+                          
+            ", 
+163, , , , , , , , , , ,"
+              Financial Aid", 
+164, , , , , , , , , , ,"
+                          
+            ", 
+165, , , , , , , , , , ,"
+              Fee Structure", 
+166, , , , , , , , , , ,"
+                          
+            ", 
+167, , , , , , , , , , ,"
+              Deposit Slip", 
+168, , , , , , , , , , ,"
+                          
+            ", 
+169, , , , , , , , , , ,"
+              FAQs", 
+170, , , , , , , , , , ,"
+                    ", 
+171, , , , , , , , , , ,"
+                ", 
+172, , , , , , , , , , ,Home, 
+173, , , , , , , , , , ,"
+                
+                                ", 
+174, , , , , , , , , , ,"
+                ", 
+175, , , , , , , , , , ,Admissions, 
+176, , , , , , , , , , ,"
+                                ", 
+177, , , , , , , , , , ,"
+                ", 
+178, , , , , , , , , , ,Admission Timeline, 
+179, , , , , , , , , , ,"
+                              ", 
+180, , , , , , , , , , ,"
+					", 
+181, , , , , , , , , , ,"
+						", 
+182, , , , , , , , , , ,"30 km Talagang Road, Mianwali, 42250, Pakistan", 
+183, , , , , , , , , , ,"
+					", 
+184, , , , , , , , , , ,"
+						", 
+185, , , , , , , , , , ,"+92(0)459-236995 Ext. 101, 107", 
+186, , , , , , , , , , ,"
+					", 
+187, , , , , , , , , , ,"
+						", 
+188, , , , , , , , , , ,info@namal.edu.pk, 
+189, , , , , , , , , , ,"
+					", 
+190, , , , , , , , , , ,"
+						", 
+191, , , , , , , , , , ,Namal Knowledge City, 
+192, , , , , , , , , , ,"
+				", 
+193, , , , , , , , , , ,"
+				    ", 
+194, , , , , , , , , , ,"
+						", 
+195, , , , , , , , , , ,Apply Online, 
+196, , , , , , , , , , ,"
+				    ", 
+197, , , , , , , , , , ,"
+					", 
+198, , , , , , , , , , ,"
+						", 
+199, , , , , , , , , , ,Academic Calendar, 
+200, , , , , , , , , , ,"
+					", 
+201, , , , , , , , , , ,"
+						", 
+202, , , , , , , , , , ,Contribute, 
+203, , , , , , , , , , ,"
+					", 
+204, , , , , , , , , , ,"
+						", 
+205, , , , , , , , , , ,Faculty, 
+206, , , , , , , , , , ,"
+					
+				", 
+207, , , , , , , , , , ,"
+					", 
+208, , , , , , , , , , ,"
+						", 
+209, , , , , , , , , , ,NULMS, 
+210, , , , , , , , , , ,"
+					", 
+211, , , , , , , , , , ,"
+						", 
+212, , , , , , , , , , ,Library, 
+213, , , , , , , , , , ,"
+					", 
+214, , , , , , , , , , ,"
+						", 
+215, , , , , , , , , , ,Student Socities, 
+216, , , , , , , , , , ,"
+					", 
+217, , , , , , , , , , ,"
+						", 
+218, , , , , , , , , , ,Facilities, 
+219, , , , , , , , , , ,"
+				", 
+220, , , , , , , , , , ,"
+		", 
+221, , , , , , , , , , ,"
+			", 
+222, , , , , , , , , , , , 
+223, , , , , , , , , , , , 
+224, , , , , , , , , , , , 
+225, , , , , , , , , , ,"
+		", 
+226, , , , , , , , , , ,"
+			", 
+227, , , , , , , , , , , , 
+228, , , , , , , , , , , , 
+229, , , , , , , , , , , , 
+230, , , , , , , , , , ,"
+		", 
+231, , , , , , , , , , ,"
+			", 
+232, , , , , , , , , , , , 
+233, , , , , , , , , , , , 
+234, , , , , , , , , , , , 
+235, , , , , , , , , , ,"
+		", 
+236, , , , , , , , , , ,"
+			", 
+237, , , , , , , , , , , , 
+238, , , , , , , , , , , , 
+239, , , , , , , , , , , , 
+240, , , , , , , , , , ,"
+		", 
+241, , , , , , , , , , ,"
+			", 
+242, , , , , , , , , , , , 
+243, , , , , , , , , , , , 
+244, , , , , , , , , , ,"
+	", 
+,Current_Page_Url,Title,Links,Images_with_url,Paragraph,Heading1,Heading2,Heading3,Heading4,Heading5,UnorderList,TableData
+0,https://namal.edu.pk/green-namal,Namal Institute,https://namal.edu.pk/,https://namal.edu.pk/uploads/logo22869383.png,Please visit our fundraising website below:,Life At Namal, , ,"
+		Think Green Save The Enviroment",To Contribute,"
+    ", 
+1, , ,https://namal.edu.pk/academic-calendar,/ckEditorImages/uploads/userfiles/Green Namal image1.png,"
+		The vision of building Namal Knowledge City thrives on the very premise of protecting our natural, social and physical environment, particularly that of Namal Valley. The objective is to provide an enabling academic and professional environment to our students to nurture a culture of environment protection that is an essential requirement for prosperous and progressive Pakistan.","
+	Green Namal", , ,"
+				Namal Valley","
+					Visiting Namal",Academic Calendar, 
+2, , ,https://namal.edu.pk/people#faculty,/ckEditorImages/uploads/userfiles/Green Namal image2.png,"
+		The word GREEN symbolizes the colors of paradise while the word Namal (translated ‘anmoal’ in Urdu) means priceless (invaluable) land. The topography, the landscape, the monuments and the cultural history of Namal valley embraces in its fold the very essence of Green Namal philosophy. The natural world is a source of inspiration for its visual beauty that is the basis for life on earth. The Green Namal initiative is meant to motivate all members of the Namal Family to inculcate a sense of responsibility and commitment to become ecologically conscious individuals. We are committed to the notion that a cleaner & greener environment is essential to our future generations to flourish and thrive in healthy environment.", , , ,"
+				namal lake","
+					Important Links","
+    ", 
+3, , ,https://namal.edu.pk/quality-enhancement-cell,/ckEditorImages/uploads/userfiles/Green Namal image3.png,"
+				Namal Valley lies some 30 kilometers away from Mianwali city and is nestled amidst the Koh-i-Suleiman and Salt Range along the border area of Punjub and KPK. The valley has a unique topography and boasts numerous lakes of which Namal is most visible. The valley is also speckled with numerous smaller lakes that stretch up to the valley of Soon Sakesar on the highest point of the Salt Range. The economy is largely agrarian with farming and livestock dominating the economic activity in the area. Namal Valley is also known as a sanctuary for many migrant species of birds and animals that thrive in perfect ecosystem.", , , ,"
+				namal dam","
+					Resources",|, 
+4, , ,https://lms.namal.edu.pk/,https://namal.edu.pk/uploads/logo4980416.png,"
+				Namal Lake is the most prominent feature of Namal Valley. It has a surface area of approximately 5 square kilometers and is the largest of the many lakes that are spread across the valley. The surrounding area serves as grazing pastures for animals that the inhabitants of the Valley rear as a source of income. It is an attractive tourist resort as people from across the Namal valley and beyond visit this place as a picnic spot. It also serves as a perfect abode for various species of birds like Russian ducks and Siberian cranes that migrate to this place during winters.", , , , , ,"   
+    ", 
+5, , ,http://library.namal.edu.pk/, ,"
+				Namal College is erected to its West on a high pedestal in the foothill of a scenic mountaintop. The Student Support Office of Namal College is very active through various student societies to make the best use of this natural gift for recreational, sports and academic activities.", , , , , ,Faculty, 
+6, , ,https://namal.edu.pk/contact-us, ,"
+				The dam was built by the British Government in 1913 to conserve water coming from numerous streams of water that eventually gave shape to what is now Namal Lake. It was aimed at creating a water resource for irrigating vast tracts of barren land to the western side of Mianwali. For over a century the dam has served as a constant source of precious water for the farmers in the area. It also serves as an exciting excursion point for the tourists as Namal Lake winds through the mountains that make it an attractive point for boating across the lake up to the dam.", , , , , ,"
+    ", 
+7, , ,#about, , , , , , , ,|, 
+8, , ,https://namal.edu.pk/chairmans-message, , , , , , , ,"
+    ", 
+9, , ,https://namal.edu.pk/vision-and-mission, , , , , , , ,QEC, 
+10, , ,https://namal.edu.pk/core-values, , , , , , , ,"
+    ", 
+11, , ,https://namal.edu.pk/the-namal-story, , , , , , , ,|, 
+12, , ,https://namal.edu.pk/namal-knowledge-city, , , , , , , ,"
+    ", 
+13, , ,https://namal.edu.pk/people, , , , , , , ,NULMS, 
+14, , ,https://namal.edu.pk/quality-enhancement-cell, , , , , , , ,"
+    ", 
+15, , ,#academics, , , , , , , ,|, 
+16, , ,https://namal.edu.pk/academic-calendar, , , , , , , ,"
+    ", 
+17, , ,https://namal.edu.pk/student-handbook, , , , , , , ,Library, 
+18, , ,#departments, , , , , , , ,"
+    ", 
+19, , ,#, , , , , , , ,|, 
+20, , ,https://namal.edu.pk/department-of-electrical-engineering, , , , , , , ,"
+    ", 
+21, , ,https://namal.edu.pk/department-of-computer-science, , , , , , , ,Contact Us, 
+22, , ,https://namal.edu.pk/department-of-business-studies, , , , , , , ,"
+", 
+23, , ,https://namal.edu.pk/department-of-mathematics, , , , , , , ,"
+        ", 
+24, , ,#, , , , , , , ,About        , 
+25, , ,https://namal.edu.pk/office-of-the-registrar, , , , , , , ,        , 
+26, , ,https://namal.edu.pk/office-of-the-coe, , , , , , , ,"
+                ", 
+27, , ,https://namal.edu.pk/office-of-the-treasurer, , , , , , , ,"
+
+                      ", 
+28, , ,#admissions, , , , , , , ,Chairman's Message, 
+29, , ,https://namal.edu.pk/apply, , , , , , , ,"
+                            ", 
+30, , ,https://namal.edu.pk/why-namal, , , , , , , ,Vision And Mission, 
+31, , ,https://namal.edu.pk/admission-timeline, , , , , , , ,"
+                            ", 
+32, , ,https://namal.edu.pk/admission-criteria, , , , , , , ,Core Values, 
+33, , ,https://namal.edu.pk/entry-test-guidelines, , , , , , , ,"
+                            ", 
+34, , ,https://namal.edu.pk/financial-aid, , , , , , , ,The Namal Story, 
+35, , ,https://namal.edu.pk/fee-structure, , , , , , , ,"
+                            ", 
+36, , ,https://namal.edu.pk/deposit-slip, , , , , , , ,Namal Knowledge City, 
+37, , ,https://namal.edu.pk/faqs, , , , , , , ,"
+                            ", 
+38, , ,#life-at-namal, , , , , , , ,People, 
+39, , ,https://namal.edu.pk/workshops-and-seminars, , , , , , , ,"
+                            ", 
+40, , ,https://namal.edu.pk/facilities, , , , , , , ,Quality Enhancement Cell, 
+41, , ,https://namal.edu.pk/green-namal, , , , , , , ,"
+                      ", 
+42, , ,https://namal.edu.pk/news-events, , , , , , , ,"	
+            ", 
+43, , ,https://namal.edu.pk/apply, , , , , , , ,"
+        ", 
+44, , ,, , , , , , , ,Academics        , 
+45, , ,https://www.namalknowledgecity.com/, , , , , , , ,        , 
+46, , ,https://namal.edu.pk/academic-calendar, , , , , , , ,"
+                ", 
+47, , ,https://namal.edu.pk/people#faculty, , , , , , , ,"
+
+                      ", 
+48, , ,https://namal.edu.pk/quality-enhancement-cell, , , , , , , ,Academic Calendar, 
+49, , ,https://lms.namal.edu.pk/, , , , , , , ,"
+                            ", 
+50, , ,http://library.namal.edu.pk/, , , , , , , ,Student Handbook, 
+51, , ,https://namal.edu.pk/contact-us, , , , , , , ,"
+                      ", 
+52, , ,https://namal.edu.pk/workshops-and-seminars, , , , , , , ,"	
+            ", 
+53, , ,https://namal.edu.pk/facilities, , , , , , , ,"
+        ", 
+54, , ,https://namal.edu.pk/green-namal, , , , , , , ,Departments        , 
+55, , ,#, , , , , , , ,        , 
+56, , ,#, , , , , , , ,"
+                ", 
+57, , ,/, , , , , , , ,"
+
+                      ", 
+58, , ,https://www.namalknowledgecity.com, , , , , , , ,Academic Departments, 
+59, , ,https://namal.edu.pk/apply, , , , , , , ,"
+              ", 
+60, , ,/academic-calendar, , , , , , , ,"
+                            ", 
+61, , ,, , , , , , , ,Department Of Electrical Engineering, 
+62, , ,/people#faculty, , , , , , , ,"
+                            ", 
+63, , ,https://nulms.namal.edu.pk, , , , , , , ,Department Of Computer Science, 
+64, , ,http://library.namal.edu.pk, , , , , , , ,"
+                            ", 
+65, , ,#!, , , , , , , ,Department Of Business Studies, 
+66, , ,/facilities, , , , , , , ,"
+                            ", 
+67, , ,https://www.facebook.com/NAmalInstitute/, , , , , , , ,Department Of Mathematics, 
+68, , ,https://twitter.com/namaledu, , , , , , , ,"
+                            ", 
+69, , ,https://www.instagram.com/namalknowledgecity/, , , , , , , ,"
+              
+              ", 
+70, , ,mailto:info@namal.edu.pk, , , , , , , ,"
+                            ", 
+71, , ,https://www.youtube.com/channel/UCWfFHczAYAn-mfqMgmmKsVQ, , , , , , , ,Administrative Departments, 
+72, , ,https://forecast7.com/en/32d6771d81/namal/, , , , , , , ,"
+              ", 
+73, , ,https://namal.edu.pk/, , , , , , , ,"
+                            ", 
+74, , , , , , , , , , ,Office Of The Registrar, 
+75, , , , , , , , , , ,"
+                            ", 
+76, , , , , , , , , , ,Office Of The CoE, 
+77, , , , , , , , , , ,"
+                            ", 
+78, , , , , , , , , , ,Office Of The Treasurer, 
+79, , , , , , , , , , ,"
+                            ", 
+80, , , , , , , , , , ,"
+              
+              ", 
+81, , , , , , , , , , ,"
+                      ", 
+82, , , , , , , , , , ,"	
+            ", 
+83, , , , , , , , , , ,"
+        ", 
+84, , , , , , , , , , ,Admissions        , 
+85, , , , , , , , , , ,        , 
+86, , , , , , , , , , ,"
+                ", 
+87, , , , , , , , , , ,"
+
+                      ", 
+88, , , , , , , , , , ,Apply Now, 
+89, , , , , , , , , , ,"
+                            ", 
+90, , , , , , , , , , ,Why Namal?, 
+91, , , , , , , , , , ,"
+                            ", 
+92, , , , , , , , , , ,Admission Timeline, 
+93, , , , , , , , , , ,"
+                            ", 
+94, , , , , , , , , , ,Admission Criteria, 
+95, , , , , , , , , , ,"
+                            ", 
+96, , , , , , , , , , ,Entry Test Guidelines, 
+97, , , , , , , , , , ,"
+                            ", 
+98, , , , , , , , , , ,Financial Aid, 
+99, , , , , , , , , , ,"
+                            ", 
+100, , , , , , , , , , ,Fee Structure, 
+101, , , , , , , , , , ,"
+                            ", 
+102, , , , , , , , , , ,Deposit Slip, 
+103, , , , , , , , , , ,"
+                            ", 
+104, , , , , , , , , , ,FAQs, 
+105, , , , , , , , , , ,"
+                      ", 
+106, , , , , , , , , , ,"	
+            ", 
+107, , , , , , , , , , ,"
+        ", 
+108, , , , , , , , , , ,Life At Namal        , 
+109, , , , , , , , , , ,        , 
+110, , , , , , , , , , ,"
+                ", 
+111, , , , , , , , , , ,"
+
+                      ", 
+112, , , , , , , , , , ,Workshops And Seminars, 
+113, , , , , , , , , , ,"
+                            ", 
+114, , , , , , , , , , ,Facilities, 
+115, , , , , , , , , , ,"
+                            ", 
+116, , , , , , , , , , ,Green Namal, 
+117, , , , , , , , , , ,"
+                      ", 
+118, , , , , , , , , , ,"	
+            ", 
+119, , , , , , , , , , ,"
+        ", 
+120, , , , , , , , , , ,News & Events                , 
+121, , , , , , , , , , ,"
+            ", 
+122, , , , , , , , , , ,"
+        ", 
+123, , , , , , , , , , ,Apply Online                , 
+124, , , , , , , , , , ,"
+            ", 
+125, , , , , , , , , , ,"
+        ", 
+126, , , , , , , , , , ,Contribute, 
+127, , , , , , , , , , ,"
+    ", 
+128, , , , , , , , , , ,"
+", 
+129, , , , , , , , , , ,"
+    ", 
+130, , , , , , , , , , ,Academic Calendar, 
+131, , , , , , , , , , ,"
+    ", 
+132, , , , , , , , , , ,|, 
+133, , , , , , , , , , ,"   
+    ", 
+134, , , , , , , , , , ,Faculty, 
+135, , , , , , , , , , ,"
+    ", 
+136, , , , , , , , , , ,|, 
+137, , , , , , , , , , ,"
+    ", 
+138, , , , , , , , , , ,QEC, 
+139, , , , , , , , , , ,"
+    ", 
+140, , , , , , , , , , ,|, 
+141, , , , , , , , , , ,"
+    ", 
+142, , , , , , , , , , ,NULMS, 
+143, , , , , , , , , , ,"
+    ", 
+144, , , , , , , , , , ,|, 
+145, , , , , , , , , , ,"
+    ", 
+146, , , , , , , , , , ,Library, 
+147, , , , , , , , , , ,"
+    ", 
+148, , , , , , , , , , ,|, 
+149, , , , , , , , , , ,"
+    ", 
+150, , , , , , , , , , ,Contact Us, 
+151, , , , , , , , , , ,"
+", 
+152, , , , , , , , , , ,"
+                          
+            ", 
+153, , , , , , , , , , ,"
+              workshops and seminars", 
+154, , , , , , , , , , ,"
+                          
+            ", 
+155, , , , , , , , , , ,"
+              Facilities", 
+156, , , , , , , , , , ,"
+                          
+            ", 
+157, , , , , , , , , , ,"
+              green namal", 
+158, , , , , , , , , , ,"
+                    ", 
+159, , , , , , , , , , ,"
+                ", 
+160, , , , , , , , , , ,Home, 
+161, , , , , , , , , , ,"
+                
+                                ", 
+162, , , , , , , , , , ,"
+                ", 
+163, , , , , , , , , , ,Life At Namal, 
+164, , , , , , , , , , ,"
+                                ", 
+165, , , , , , , , , , ,"
+                ", 
+166, , , , , , , , , , ,Green Namal, 
+167, , , , , , , , , , ,"
+                              ", 
+168, , , , , , , , , , ,"
+					", 
+169, , , , , , , , , , ,"
+						", 
+170, , , , , , , , , , ,"30 km Talagang Road, Mianwali, 42250, Pakistan", 
+171, , , , , , , , , , ,"
+					", 
+172, , , , , , , , , , ,"
+						", 
+173, , , , , , , , , , ,"+92(0)459-236995 Ext. 101, 107", 
+174, , , , , , , , , , ,"
+					", 
+175, , , , , , , , , , ,"
+						", 
+176, , , , , , , , , , ,info@namal.edu.pk, 
+177, , , , , , , , , , ,"
+					", 
+178, , , , , , , , , , ,"
+						", 
+179, , , , , , , , , , ,Namal Knowledge City, 
+180, , , , , , , , , , ,"
+				", 
+181, , , , , , , , , , ,"
+				    ", 
+182, , , , , , , , , , ,"
+						", 
+183, , , , , , , , , , ,Apply Online, 
+184, , , , , , , , , , ,"
+				    ", 
+185, , , , , , , , , , ,"
+					", 
+186, , , , , , , , , , ,"
+						", 
+187, , , , , , , , , , ,Academic Calendar, 
+188, , , , , , , , , , ,"
+					", 
+189, , , , , , , , , , ,"
+						", 
+190, , , , , , , , , , ,Contribute, 
+191, , , , , , , , , , ,"
+					", 
+192, , , , , , , , , , ,"
+						", 
+193, , , , , , , , , , ,Faculty, 
+194, , , , , , , , , , ,"
+					
+				", 
+195, , , , , , , , , , ,"
+					", 
+196, , , , , , , , , , ,"
+						", 
+197, , , , , , , , , , ,NULMS, 
+198, , , , , , , , , , ,"
+					", 
+199, , , , , , , , , , ,"
+						", 
+200, , , , , , , , , , ,Library, 
+201, , , , , , , , , , ,"
+					", 
+202, , , , , , , , , , ,"
+						", 
+203, , , , , , , , , , ,Student Socities, 
+204, , , , , , , , , , ,"
+					", 
+205, , , , , , , , , , ,"
+						", 
+206, , , , , , , , , , ,Facilities, 
+207, , , , , , , , , , ,"
+				", 
+208, , , , , , , , , , ,"
+		", 
+209, , , , , , , , , , ,"
+			", 
+210, , , , , , , , , , , , 
+211, , , , , , , , , , , , 
+212, , , , , , , , , , , , 
+213, , , , , , , , , , ,"
+		", 
+214, , , , , , , , , , ,"
+			", 
+215, , , , , , , , , , , , 
+216, , , , , , , , , , , , 
+217, , , , , , , , , , , , 
+218, , , , , , , , , , ,"
+		", 
+219, , , , , , , , , , ,"
+			", 
+220, , , , , , , , , , , , 
+221, , , , , , , , , , , , 
+222, , , , , , , , , , , , 
+223, , , , , , , , , , ,"
+		", 
+224, , , , , , , , , , ,"
+			", 
+225, , , , , , , , , , , , 
+226, , , , , , , , , , , , 
+227, , , , , , , , , , , , 
+228, , , , , , , , , , ,"
+		", 
+229, , , , , , , , , , ,"
+			", 
+230, , , , , , , , , , , , 
+231, , , , , , , , , , , , 
+232, , , , , , , , , , ,"
+	", 

@@ -1,91 +1,2637 @@
-,Current_Page_Url,Title,Links,Images_with_url,Paragraph,Heading1,Heading2,Heading3,Heading4,Heading5
-0,https://namal.edu.pk/deposit-slip,Namal Institute,https://namal.edu.pk/,https://namal.edu.pk/uploads/logo22869383.png,Please visit our fundraising website below:,Admissions, , , ,To Contribute
-1, , ,https://namal.edu.pk/academic-calendar,https://namal.edu.pk/uploads/logo4980416.png,"
-	Bank account details are provided below:","
-	Deposit Slip", , , ,"
-					Visiting Namal"
-2, , ,https://namal.edu.pk/people#faculty, ,"
-	", , , , ,"
-					Important Links"
-3, , ,https://namal.edu.pk/quality-enhancement-cell, , Muslim Commercial Bank (MCB) Ltd., , , , ,"
-					Resources"
+,Current_Page_Url,Title,Links,Images_with_url,Paragraph,Heading1,Heading2,Heading3,Heading4,Heading5,UnorderList,TableData
+0,https://www.namal.edu.pk/department-of-electrical-engineering,Namal Institute,https://namal.edu.pk/,https://namal.edu.pk/uploads/logo22869383.png,Please visit our fundraising website below:,Departments,"
+							Overview", , ,To Contribute,"
+    ","
+								"
+1, , ,https://namal.edu.pk/academic-calendar,/ckEditorImages/uploads/userfiles/ee_banner.svg,"
+	", ,"
+							Vision", , ,"
+					Visiting Namal",Academic Calendar,"
+									"
+2, , ,https://namal.edu.pk/people#faculty,https://namal.edu.pk/uploads/logo4980416.png,"
+	", ,"
+							Mission", , ,"
+					Important Links","
+    ","
+										"
+3, , ,https://namal.edu.pk/quality-enhancement-cell, ,"
+							To cultivate individuals with strong engineering foundations, high exposure to emerging technologies and the ability to enhance social progress. In doing so, the department aspires to become a catalyst for communal uplift and technical advancement especially for the local region of Pakistan.", ,"
+							Program Educational Objectives", , ,"
+					Resources",|,"
+											Semester 1"
 4, , ,https://lms.namal.edu.pk/, ,"
-	", , , , , 
-5, , ,http://library.namal.edu.pk/, , Namal Institute Mianwali Fee Collection, , , , , 
+							The Electrical Engineering Department aims to", ,"
+							Program Learning Outcomes", , , ,"   
+    ","
+									"
+5, , ,http://library.namal.edu.pk/, ,"
+							The aim of the program is to provide you with a sound grounding in the fundamentals of electrical engineering. The objective of the program is to groom students in such a way that they can:", ,"
+							Scheme of Studies", , , ,Faculty,"
+									"
 6, , ,https://namal.edu.pk/contact-us, ,"
-	", , , , , 
-7, , ,#about, , 1121930011000966, , , , , 
+							To be eligible for the award of the undergraduate degree, students will be able to demonstrate following skills:", ,"
+								List of Breadth Core 1 & 2 and Electives", , , ,"
+    ","
+										"
+7, , ,#about, ,"
+							Since 2019, after the Charter of Namal Institute has been passed through the act of Punjab Assembly, the authorities of the Institute have approved to offer the Degree of BS (EE); It is a four-year program that comprises of eight semesters. During each semester a number of core and elective courses are offered from different knowledge areas ranging from management sciences, mathematics and humanities apart from the core electrical engineering courses.", ,"
+								Disclaimer", , , ,|,"
+											Code"
 8, , ,https://namal.edu.pk/chairmans-message, ,"
-	", , , , , 
-9, , ,https://namal.edu.pk/vision-and-mission, , , , , , , 
-10, , ,https://namal.edu.pk/core-values, , , , , , , 
-11, , ,https://namal.edu.pk/the-namal-story, , , , , , , 
-12, , ,https://namal.edu.pk/namal-knowledge-city, , , , , , , 
-13, , ,https://namal.edu.pk/people, , , , , , , 
-14, , ,https://namal.edu.pk/quality-enhancement-cell, , , , , , , 
-15, , ,#academics, , , , , , , 
-16, , ,https://namal.edu.pk/academic-calendar, , , , , , , 
-17, , ,https://namal.edu.pk/student-handbook, , , , , , , 
-18, , ,#departments, , , , , , , 
-19, , ,#, , , , , , , 
-20, , ,https://namal.edu.pk/department-of-electrical-engineering, , , , , , , 
-21, , ,https://namal.edu.pk/department-of-computer-science, , , , , , , 
-22, , ,https://namal.edu.pk/department-of-business-studies, , , , , , , 
-23, , ,https://namal.edu.pk/department-of-mathematics, , , , , , , 
-24, , ,#, , , , , , , 
-25, , ,https://namal.edu.pk/office-of-the-registrar, , , , , , , 
-26, , ,https://namal.edu.pk/office-of-the-coe, , , , , , , 
-27, , ,https://namal.edu.pk/office-of-the-treasurer, , , , , , , 
-28, , ,#admissions, , , , , , , 
-29, , ,https://namal.edu.pk/apply, , , , , , , 
-30, , ,https://namal.edu.pk/why-namal, , , , , , , 
-31, , ,https://namal.edu.pk/admission-timeline, , , , , , , 
-32, , ,https://namal.edu.pk/admission-criteria, , , , , , , 
-33, , ,https://namal.edu.pk/entry-test-guidelines, , , , , , , 
-34, , ,https://namal.edu.pk/financial-aid, , , , , , , 
-35, , ,https://namal.edu.pk/fee-structure, , , , , , , 
-36, , ,https://namal.edu.pk/deposit-slip, , , , , , , 
-37, , ,https://namal.edu.pk/faqs, , , , , , , 
-38, , ,#life-at-namal, , , , , , , 
-39, , ,https://namal.edu.pk/workshops-and-seminars, , , , , , , 
-40, , ,https://namal.edu.pk/facilities, , , , , , , 
-41, , ,https://namal.edu.pk/green-namal, , , , , , , 
-42, , ,https://namal.edu.pk/news-events, , , , , , , 
-43, , ,https://namal.edu.pk/apply, , , , , , , 
-44, , ,, , , , , , , 
-45, , ,https://www.namalknowledgecity.com/, , , , , , , 
-46, , ,https://namal.edu.pk/academic-calendar, , , , , , , 
-47, , ,https://namal.edu.pk/people#faculty, , , , , , , 
-48, , ,https://namal.edu.pk/quality-enhancement-cell, , , , , , , 
-49, , ,https://lms.namal.edu.pk/, , , , , , , 
-50, , ,http://library.namal.edu.pk/, , , , , , , 
-51, , ,https://namal.edu.pk/contact-us, , , , , , , 
-52, , ,https://namal.edu.pk/apply, , , , , , , 
-53, , ,https://namal.edu.pk/why-namal, , , , , , , 
-54, , ,https://namal.edu.pk/admission-timeline, , , , , , , 
-55, , ,https://namal.edu.pk/admission-criteria, , , , , , , 
-56, , ,https://namal.edu.pk/entry-test-guidelines, , , , , , , 
-57, , ,https://namal.edu.pk/financial-aid, , , , , , , 
-58, , ,https://namal.edu.pk/fee-structure, , , , , , , 
-59, , ,https://namal.edu.pk/deposit-slip, , , , , , , 
-60, , ,https://namal.edu.pk/faqs, , , , , , , 
-61, , ,#, , , , , , , 
-62, , ,#, , , , , , , 
-63, , ,https://namal.edu.pk/ckEditorImages/uploads/userfiles/deposit_slip.pdf, , , , , , , 
-64, , ,/, , , , , , , 
-65, , ,https://www.namalknowledgecity.com, , , , , , , 
-66, , ,https://namal.edu.pk/apply, , , , , , , 
-67, , ,/academic-calendar, , , , , , , 
-68, , ,, , , , , , , 
-69, , ,/people#faculty, , , , , , , 
-70, , ,https://nulms.namal.edu.pk, , , , , , , 
-71, , ,http://library.namal.edu.pk, , , , , , , 
-72, , ,#!, , , , , , , 
-73, , ,/facilities, , , , , , , 
-74, , ,https://www.facebook.com/NAmalInstitute/, , , , , , , 
-75, , ,https://twitter.com/namaledu, , , , , , , 
-76, , ,https://www.instagram.com/namalknowledgecity/, , , , , , , 
-77, , ,mailto:info@namal.edu.pk, , , , , , , 
-78, , ,https://www.youtube.com/channel/UCWfFHczAYAn-mfqMgmmKsVQ, , , , , , , 
-79, , ,https://forecast7.com/en/32d6771d81/namal/, , , , , , , 
-80, , ,https://namal.edu.pk/, , , , , , , 
+							Total Credit Hours = 136", ,"
+							Faculty", , , ,"
+    ","
+										"
+9, , ,https://namal.edu.pk/vision-and-mission, ,"
+								The details of the program specification and information contained herein are subject to change in accordance with the policies, rules and regulations of the University of Engineering and Technology, Lahore. Such changes will be notified to the enrolled students through email. Course offerings also depend on the availability of faculty of the subject area. The information given above has been adapted from the University of Engineering and Technology, Lahore.", , , , , ,QEC,"
+											Course"
+10, , ,https://namal.edu.pk/core-values, , , , , , , ,"
+    ","
+										"
+11, , ,https://namal.edu.pk/the-namal-story, , , , , , , ,|,"
+											Theory"
+12, , ,https://namal.edu.pk/namal-knowledge-city, , , , , , , ,"
+    ","
+										"
+13, , ,https://namal.edu.pk/people, , , , , , , ,NULMS,"
+											Lab"
+14, , ,https://namal.edu.pk/quality-enhancement-cell, , , , , , , ,"
+    ","
+										"
+15, , ,#academics, , , , , , , ,|,"
+											Pre-req"
+16, , ,https://namal.edu.pk/academic-calendar, , , , , , , ,"
+    ","
+									"
+17, , ,https://namal.edu.pk/student-handbook, , , , , , , ,Library,"
+								"
+18, , ,#departments, , , , , , , ,"
+    ","
+								"
+19, , ,#, , , , , , , ,|,"
+									"
+20, , ,https://namal.edu.pk/department-of-electrical-engineering, , , , , , , ,"
+    ","
+										"
+21, , ,https://namal.edu.pk/department-of-computer-science, , , , , , , ,Contact Us,"
+											MTH-121"
+22, , ,https://namal.edu.pk/department-of-business-studies, , , , , , , ,"
+","
+										"
+23, , ,https://namal.edu.pk/department-of-mathematics, , , , , , , ,"
+        ","
+											Calculus"
+24, , ,#, , , , , , , ,About        ,"
+										"
+25, , ,https://namal.edu.pk/office-of-the-registrar, , , , , , , ,        ,"
+											3"
+26, , ,https://namal.edu.pk/office-of-the-coe, , , , , , , ,"
+                ","
+										"
+27, , ,https://namal.edu.pk/office-of-the-treasurer, , , , , , , ,"
+
+                      ","
+											0"
+28, , ,#admissions, , , , , , , ,Chairman's Message,"
+										"
+29, , ,https://namal.edu.pk/apply, , , , , , , ,"
+                            ","
+											 "
+30, , ,https://namal.edu.pk/why-namal, , , , , , , ,Vision And Mission,"
+									"
+31, , ,https://namal.edu.pk/admission-timeline, , , , , , , ,"
+                            ","
+									"
+32, , ,https://namal.edu.pk/admission-criteria, , , , , , , ,Core Values,"
+										"
+33, , ,https://namal.edu.pk/entry-test-guidelines, , , , , , , ,"
+                            ","
+											CS-100"
+34, , ,https://namal.edu.pk/financial-aid, , , , , , , ,The Namal Story,"
+										"
+35, , ,https://namal.edu.pk/fee-structure, , , , , , , ,"
+                            ","
+											Quantitative & Computational Reasoning"
+36, , ,https://namal.edu.pk/deposit-slip, , , , , , , ,Namal Knowledge City,"
+										"
+37, , ,https://namal.edu.pk/faqs, , , , , , , ,"
+                            ","
+											3"
+38, , ,#life-at-namal, , , , , , , ,People,"
+										"
+39, , ,https://namal.edu.pk/workshops-and-seminars, , , , , , , ,"
+                            ","
+											1"
+40, , ,https://namal.edu.pk/facilities, , , , , , , ,Quality Enhancement Cell,"
+										"
+41, , ,https://namal.edu.pk/green-namal, , , , , , , ,"
+                      ","
+											 "
+42, , ,https://namal.edu.pk/news-events, , , , , , , ,"	
+            ","
+									"
+43, , ,https://namal.edu.pk/apply, , , , , , , ,"
+        ","
+									"
+44, , ,, , , , , , , ,Academics        ,"
+										"
+45, , ,https://www.namalknowledgecity.com/, , , , , , , ,        ,"
+											ENG-111"
+46, , ,https://namal.edu.pk/academic-calendar, , , , , , , ,"
+                ","
+										"
+47, , ,https://namal.edu.pk/people#faculty, , , , , , , ,"
+
+                      ","
+											Technical Writing & Communication"
+48, , ,https://namal.edu.pk/quality-enhancement-cell, , , , , , , ,Academic Calendar,"
+										"
+49, , ,https://lms.namal.edu.pk/, , , , , , , ,"
+                            ","
+											3"
+50, , ,http://library.namal.edu.pk/, , , , , , , ,Student Handbook,"
+										"
+51, , ,https://namal.edu.pk/contact-us, , , , , , , ,"
+                      ","
+											0"
+52, , ,https://namal.edu.pk/department-of-electrical-engineering, , , , , , , ,"	
+            ","
+										"
+53, , ,https://namal.edu.pk/department-of-computer-science, , , , , , , ,"
+        ","
+											 "
+54, , ,https://namal.edu.pk/department-of-business-studies, , , , , , , ,Departments        ,"
+									"
+55, , ,https://namal.edu.pk/department-of-mathematics, , , , , , , ,        ,"
+									"
+56, , ,https://namal.edu.pk/office-of-the-registrar, , , , , , , ,"
+                ","
+										"
+57, , ,https://namal.edu.pk/office-of-the-coe, , , , , , , ,"
+
+                      ","
+											EE-131"
+58, , ,https://namal.edu.pk/office-of-the-treasurer, , , , , , , ,Academic Departments,"
+										"
+59, , ,#, , , , , , , ,"
+              ","
+											Basic Circuit Analysis & Design"
+60, , ,#, , , , , , , ,"
+                            ","
+										"
+61, , ,#nav-overview, , , , , , , ,Department Of Electrical Engineering,"
+											3"
+62, , ,#nav-vision, , , , , , , ,"
+                            ","
+										"
+63, , ,#nav-peo, , , , , , , ,Department Of Computer Science,"
+											1"
+64, , ,#nav-scheme, , , , , , , ,"
+                            ","
+										"
+65, , ,#nav-faculty, , , , , , , ,Department Of Business Studies,"
+											 "
+66, , ,/, , , , , , , ,"
+                            ","
+									"
+67, , ,https://www.namalknowledgecity.com, , , , , , , ,Department Of Mathematics,"
+									"
+68, , ,https://namal.edu.pk/apply, , , , , , , ,"
+                            ","
+										"
+69, , ,/academic-calendar, , , , , , , ,"
+              
+              ","
+											SS-104a"
+70, , ,, , , , , , , ,"
+                            ","
+										"
+71, , ,/people#faculty, , , , , , , ,Administrative Departments,"
+											Great Books – Ours & the World’s"
+72, , ,https://nulms.namal.edu.pk, , , , , , , ,"
+              ","
+										"
+73, , ,http://library.namal.edu.pk, , , , , , , ,"
+                            ","
+											1"
+74, , ,#!, , , , , , , ,Office Of The Registrar,"
+										"
+75, , ,/facilities, , , , , , , ,"
+                            ","
+											0"
+76, , ,https://www.facebook.com/NAmalInstitute/, , , , , , , ,Office Of The CoE,"
+										"
+77, , ,https://twitter.com/namaledu, , , , , , , ,"
+                            ","
+											 "
+78, , ,https://www.instagram.com/namalknowledgecity/, , , , , , , ,Office Of The Treasurer,"
+									"
+79, , ,mailto:info@namal.edu.pk, , , , , , , ,"
+                            ","
+									"
+80, , ,https://www.youtube.com/channel/UCWfFHczAYAn-mfqMgmmKsVQ, , , , , , , ,"
+              
+              ","
+										"
+81, , ,https://forecast7.com/en/32d6771d81/namal/, , , , , , , ,"
+                      ","
+											 "
+82, , ,https://namal.edu.pk/, , , , , , , ,"	
+            ","
+										"
+83, , , , , , , , , , ,"
+        ","
+											13"
+84, , , , , , , , , , ,Admissions        ,"
+										"
+85, , , , , , , , , , ,        ,"
+											2"
+86, , , , , , , , , , ,"
+                ","
+										"
+87, , , , , , , , , , ,"
+
+                      ","
+											 "
+88, , , , , , , , , , ,Apply Now,"
+									"
+89, , , , , , , , , , ,"
+                            ","
+								"
+90, , , , , , , , , , ,Why Namal?,"
+"
+91, , , , , , , , , , ,"
+                            ",								
+92, , , , , , , , , , ,Admission Timeline,"
+									"
+93, , , , , , , , , , ,"
+                            ","
+										"
+94, , , , , , , , , , ,Admission Criteria,"
+											Semester 2"
+95, , , , , , , , , , ,"
+                            ","
+									"
+96, , , , , , , , , , ,Entry Test Guidelines,"
+									"
+97, , , , , , , , , , ,"
+                            ","
+										"
+98, , , , , , , , , , ,Financial Aid,"
+											Code"
+99, , , , , , , , , , ,"
+                            ","
+										"
+100, , , , , , , , , , ,Fee Structure,"
+											Course"
+101, , , , , , , , , , ,"
+                            ","
+										"
+102, , , , , , , , , , ,Deposit Slip,"
+											Theory"
+103, , , , , , , , , , ,"
+                            ","
+										"
+104, , , , , , , , , , ,FAQs,"
+											Lab"
+105, , , , , , , , , , ,"
+                      ","
+										"
+106, , , , , , , , , , ,"	
+            ","
+											Pre-req"
+107, , , , , , , , , , ,"
+        ","
+									"
+108, , , , , , , , , , ,Life At Namal        ,"
+								"
+109, , , , , , , , , , ,        ,"
+								"
+110, , , , , , , , , , ,"
+                ","
+									"
+111, , , , , , , , , , ,"
+
+                      ","
+										"
+112, , , , , , , , , , ,Workshops And Seminars,"
+											PH-133"
+113, , , , , , , , , , ,"
+                            ","
+										"
+114, , , , , , , , , , ,Facilities,"
+											Applied Physics"
+115, , , , , , , , , , ,"
+                            ","
+										"
+116, , , , , , , , , , ,Green Namal,"
+											3"
+117, , , , , , , , , , ,"
+                      ","
+										"
+118, , , , , , , , , , ,"	
+            ","
+											1"
+119, , , , , , , , , , ,"
+        ","
+										"
+120, , , , , , , , , , ,News & Events                ,"
+											 "
+121, , , , , , , , , , ,"
+            ","
+									"
+122, , , , , , , , , , ,"
+        ","
+									"
+123, , , , , , , , , , ,Apply Online                ,"
+										"
+124, , , , , , , , , , ,"
+            ","
+											CS-15X"
+125, , , , , , , , , , ,"
+        ","
+										"
+126, , , , , , , , , , ,Contribute,"
+											Computer Programming"
+127, , , , , , , , , , ,"
+    ","
+										"
+128, , , , , , , , , , ,"
+","
+											3"
+129, , , , , , , , , , ,"
+    ","
+										"
+130, , , , , , , , , , ,Academic Calendar,"
+											1"
+131, , , , , , , , , , ,"
+    ","
+										"
+132, , , , , , , , , , ,|,"
+											CS-100"
+133, , , , , , , , , , ,"   
+    ","
+									"
+134, , , , , , , , , , ,Faculty,"
+									"
+135, , , , , , , , , , ,"
+    ","
+										"
+136, , , , , , , , , , ,|,"
+											ENG-12X"
+137, , , , , , , , , , ,"
+    ","
+										"
+138, , , , , , , , , , ,QEC,"
+											Functional English"
+139, , , , , , , , , , ,"
+    ","
+										"
+140, , , , , , , , , , ,|,"
+											2"
+141, , , , , , , , , , ,"
+    ","
+										"
+142, , , , , , , , , , ,NULMS,"
+											0"
+143, , , , , , , , , , ,"
+    ","
+										"
+144, , , , , , , , , , ,|,"
+											 "
+145, , , , , , , , , , ,"
+    ","
+									"
+146, , , , , , , , , , ,Library,"
+									"
+147, , , , , , , , , , ,"
+    ","
+										"
+148, , , , , , , , , , ,|,"
+											EE-132"
+149, , , , , , , , , , ,"
+    ","
+										"
+150, , , , , , , , , , ,Contact Us,"
+											Electrical Network Analysis & Design"
+151, , , , , , , , , , ,"
+","
+										"
+152, , , , , , , , , , ,"
+                            ","
+											3"
+153, , , , , , , , , , ,Academic Departments                ,"
+										"
+154, , , , , , , , , , ,"
+                                  ","
+											1"
+155, , , , , , , , , , ,"
+              Department of Electrical Engineering","
+										"
+156, , , , , , , , , , ,"
+                                  ","
+											EE-131"
+157, , , , , , , , , , ,"
+              Department of Computer Science","
+									"
+158, , , , , , , , , , ,"
+                                  ","
+									"
+159, , , , , , , , , , ,"
+              Department of Business Studies","
+										"
+160, , , , , , , , , , ,"
+                                  ","
+											MTH-122"
+161, , , , , , , , , , ,"
+              Department of Mathematics","
+										"
+162, , , , , , , , , , ,"
+                                ","
+											Differential Equations"
+163, , , , , , , , , , ,"
+                              ","
+										"
+164, , , , , , , , , , ,Administrative Departments                ,"
+											3"
+165, , , , , , , , , , ,"
+                                  ","
+										"
+166, , , , , , , , , , ,"
+              Office of the Registrar","
+											0"
+167, , , , , , , , , , ,"
+                                  ","
+										"
+168, , , , , , , , , , ,"
+              Office of the CoE","
+											 "
+169, , , , , , , , , , ,"
+                                  ","
+									"
+170, , , , , , , , , , ,"
+              Office of the Treasurer","
+									"
+171, , , , , , , , , , ,"
+                                ","
+										"
+172, , , , , , , , , , ,"
+                      ","
+											EE-133"
+173, , , , , , , , , , ,"
+                ","
+										"
+174, , , , , , , , , , ,Home,"
+											Engineering Workshop"
+175, , , , , , , , , , ,"
+                
+                                ","
+										"
+176, , , , , , , , , , ,"
+                ","
+											0"
+177, , , , , , , , , , ,Departments,"
+										"
+178, , , , , , , , , , ,"
+                                ","
+											1"
+179, , , , , , , , , , ,"
+                ","
+										"
+180, , , , , , , , , , ,Department Of Electrical Engineering,"
+											 "
+181, , , , , , , , , , ,"
+                              ","
+									"
+182, , , , , , , , , , ,"
+							","
+									"
+183, , , , , , , , , , ,"
+								The department of electrical engineering offers undergraduate degree in the field of electrical engineering, both as an independent degree awarding institute and under the affiliation of University of Engineering and Technology, Lahore. Currently, the department has a total of nine full time faculty members for core electrical engineering courses and three shared faculty members for courses of Mathematics.","
+										"
+184, , , , , , , , , , ,"
+							","
+											 "
+185, , , , , , , , , , ,"
+								The aim of the undergraduate program is to provide the students a sound grounding in the fundamentals of Electrical Engineering and to provide the skills needed to enable the students to practice as a professional electrical engineer.","
+										"
+186, , , , , , , , , , ,"
+							","
+											14"
+187, , , , , , , , , , ,"
+								This program is fundamental to a successful career in the electronics manufacturing, electronic product design, robotics, IT, defence, electric power and communications industry.","
+										"
+188, , , , , , , , , , ,"
+						","
+											4"
+189, , , , , , , , , , ,"
+							","
+										"
+190, , , , , , , , , , ,"
+								Impart the capacity to its students to solve indigenous problems through the use of electrical technologies, education and research.","
+											 "
+191, , , , , , , , , , ,"
+							","
+									"
+192, , , , , , , , , , ,"
+								Establish external collaboration with industry and academia for enriching the learning experience of its students.","
+								"
+193, , , , , , , , , , ,"
+							","
+"
+194, , , , , , , , , , ,"
+								Inculcate in its students, strong moral values, leadership qualities and lifelong learning habits.",								
+195, , , , , , , , , , ,"
+						","
+									"
+196, , , , , , , , , , ,"
+							","
+										"
+197, , , , , , , , , , ,"
+								","
+											Semester 3"
+198, , , , , , , , , , ,PEO-1: ,"
+									"
+199, , , , , , , , , , , Achieve high standards of excellence in both academia and industry.,"
+									"
+200, , , , , , , , , , ,"
+							","
+										"
+201, , , , , , , , , , ,"
+								","
+											Code"
+202, , , , , , , , , , ,PEO-2: ,"
+										"
+203, , , , , , , , , , , Be actively involved in driving social change and addressing issues of critical importance to the general public.,"
+											Course"
+204, , , , , , , , , , ,"
+							","
+										"
+205, , , , , , , , , , ,"
+								","
+											Theory"
+206, , , , , , , , , , ,PEO-3: ,"
+										"
+207, , , , , , , , , , , Assume leading roles in organizations of national and international repute.,"
+											Lab"
+208, , , , , , , , , , ,"
+						","
+										"
+209, , , , , , , , , , ,"
+							","
+											Pre-req"
+210, , , , , , , , , , ,"
+								","
+									"
+211, , , , , , , , , , ,PLO-1: Engineering Knowledge:,"
+								"
+212, , , , , , , , , , ," An ability to apply knowledge of mathematics, science,engineering fundamentals and an engineering specialization to the solution of complex engineering problems.","
+								"
+213, , , , , , , , , , ,"
+							","
+									"
+214, , , , , , , , , , ,"
+								","
+										"
+215, , , , , , , , , , ,PLO-2: Problem Analysis: ,"
+											EE-251"
+216, , , , , , , , , , ," An ability to identify, formulate, research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences and engineering sciences.","
+										"
+217, , , , , , , , , , ,"
+							","
+											Digital Logic Design"
+218, , , , , , , , , , ,"
+								","
+										"
+219, , , , , , , , , , ,PLO-3: Design/Development of Solutions: ,"
+											3"
+220, , , , , , , , , , ," An ability to design solutions for complex engineering problems and design systems, components or processes that meet specified needs with appropriate consideration for public health and safety, cultural, societal, and environmental considerations.","
+										"
+221, , , , , , , , , , ,"
+							","
+											1"
+222, , , , , , , , , , ,"
+								","
+										"
+223, , , , , , , , , , ,PLO-4: Investigation: ,"
+											 "
+224, , , , , , , , , , ," An ability to investigate complex engineering problems in a methodical way including literature survey, design and conduct of experiments, analysis and interpretation of experimental data, and synthesis of information to derive valid conclusions.","
+									"
+225, , , , , , , , , , ,"
+							","
+									"
+226, , , , , , , , , , ,"
+								","
+										"
+227, , , , , , , , , , ,PLO-5: Modern Tool Usage: ,"
+											EE-231"
+228, , , , , , , , , , ," An ability to create, select and apply appropriate techniques, resources, and modern engineering and IT tools, including prediction and modeling, to complex engineering activities, with an understanding of the limitations.","
+										"
+229, , , , , , , , , , ,"
+							","
+											Electronic Devices & Circuits"
+230, , , , , , , , , , ,"
+								","
+										"
+231, , , , , , , , , , ,PLO-6: The Engineer and Society: ,"
+											3"
+232, , , , , , , , , , ," An ability to apply reasoning informed by contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to professional engineering practice and solution to complex engineering problems.","
+										"
+233, , , , , , , , , , ,"
+							","
+											1"
+234, , , , , , , , , , ,"
+								","
+										"
+235, , , , , , , , , , ,PLO-7: Environment and Sustainability: ,"
+											EE-132"
+236, , , , , , , , , , , An ability to understand the impact of professional engineering solutions in societal and environmental contexts and demonstrate knowledge of and need for sustainable development.,"
+									"
+237, , , , , , , , , , ,"
+							","
+									"
+238, , , , , , , , , , ,"
+								","
+										"
+239, , , , , , , , , , ,PLO-8: Ethics: ,"
+											MTH-224"
+240, , , , , , , , , , , Apply ethical principles and commit to professional ethics andresponsibilities and norms of engineering practice.,"
+										"
+241, , , , , , , , , , ,"
+							","
+											Complex Variables & Transforms"
+242, , , , , , , , , , ,"
+								","
+										"
+243, , , , , , , , , , ,PLO-9: Individual and Team Work: ,"
+											3"
+244, , , , , , , , , , ," An ability to work effectively, as an individual or in a team, on multifaceted and /or multidisciplinary settings.","
+										"
+245, , , , , , , , , , ,"
+							","
+											0"
+246, , , , , , , , , , ,"
+								","
+										"
+247, , , , , , , , , , ,PLO-10: Communication: ,"
+											 "
+248, , , , , , , , , , ," An ability to communicate effectively, orally as well as in writing, on complex engineering activities with the engineering community and with society at large, such as being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions.","
+									"
+249, , , , , , , , , , ,"
+							","
+									"
+250, , , , , , , , , , ,"
+								","
+										"
+251, , , , , , , , , , ,PLO-11: Project Management: ,"
+											SS-106"
+252, , , , , , , , , , ," An ability to demonstrate knowledge and understanding of engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments, business practices, such as risk and change management, and understand their limitations.","
+										"
+253, , , , , , , , , , ,"
+							","
+											Iqbaliat"
+254, , , , , , , , , , ,"
+								","
+										"
+255, , , , , , , , , , ,PLO-12: Lifelong Learning: ,"
+											2"
+256, , , , , , , , , , ," An ability to recognize importance of, and pursue lifelong learning in the broader context of innovation and technological developments.","
+										"
+257, , , , , , , , , , ,"
+						","
+											0"
+258, , , , , , , , , , ,"
+					","
+										"
+259, , , , , , , , , , ,"
+						","
+											 "
+260, , , , , , , , , , ,"30 km Talagang Road, Mianwali, 42250, Pakistan","
+									"
+261, , , , , , , , , , ,"
+					","
+									"
+262, , , , , , , , , , ,"
+						","
+										"
+263, , , , , , , , , , ,"+92(0)459-236995 Ext. 101, 107","
+											EE-241"
+264, , , , , , , , , , ,"
+					","
+										"
+265, , , , , , , , , , ,"
+						","
+											Signals & Systems"
+266, , , , , , , , , , ,info@namal.edu.pk,"
+										"
+267, , , , , , , , , , ,"
+					","
+											3"
+268, , , , , , , , , , ,"
+						","
+										"
+269, , , , , , , , , , ,Namal Knowledge City,"
+											1"
+270, , , , , , , , , , ,"
+				","
+										"
+271, , , , , , , , , , ,"
+				    ","
+											 "
+272, , , , , , , , , , ,"
+						","
+									"
+273, , , , , , , , , , ,Apply Online,"
+									"
+274, , , , , , , , , , ,"
+				    ","
+										"
+275, , , , , , , , , , ,"
+					","
+											 "
+276, , , , , , , , , , ,"
+						","
+										"
+277, , , , , , , , , , ,Academic Calendar,"
+											14"
+278, , , , , , , , , , ,"
+					","
+										"
+279, , , , , , , , , , ,"
+						","
+											3"
+280, , , , , , , , , , ,Contribute,"
+										"
+281, , , , , , , , , , ,"
+					","
+											 "
+282, , , , , , , , , , ,"
+						","
+									"
+283, , , , , , , , , , ,Faculty,"
+								"
+284, , , , , , , , , , ,"
+					
+				","
+"
+285, , , , , , , , , , ,"
+					",								
+286, , , , , , , , , , ,"
+						","
+									"
+287, , , , , , , , , , ,NULMS,"
+										"
+288, , , , , , , , , , ,"
+					","
+											Semester 4"
+289, , , , , , , , , , ,"
+						","
+									"
+290, , , , , , , , , , ,Library,"
+									"
+291, , , , , , , , , , ,"
+					","
+										"
+292, , , , , , , , , , ,"
+						","
+											Code"
+293, , , , , , , , , , ,Student Socities,"
+										"
+294, , , , , , , , , , ,"
+					","
+											Course"
+295, , , , , , , , , , ,"
+						","
+										"
+296, , , , , , , , , , ,Facilities,"
+											Theory"
+297, , , , , , , , , , ,"
+				","
+										"
+298, , , , , , , , , , ,"
+		","
+											Lab"
+299, , , , , , , , , , ,"
+			","
+										"
+300, , , , , , , , , , , ,"
+											Pre-req"
+301, , , , , , , , , , , ,"
+									"
+302, , , , , , , , , , , ,"
+								"
+303, , , , , , , , , , ,"
+		","
+								"
+304, , , , , , , , , , ,"
+			","
+									"
+305, , , , , , , , , , , ,"
+										"
+306, , , , , , , , , , , ,"
+											EE-252"
+307, , , , , , , , , , , ,"
+										"
+308, , , , , , , , , , ,"
+		","
+											Introduction to Embedded Systems"
+309, , , , , , , , , , ,"
+			","
+										"
+310, , , , , , , , , , , ,"
+											3"
+311, , , , , , , , , , , ,"
+										"
+312, , , , , , , , , , , ,"
+											1"
+313, , , , , , , , , , ,"
+		","
+										"
+314, , , , , , , , , , ,"
+			","
+											EE-251"
+315, , , , , , , , , , , ,"
+									"
+316, , , , , , , , , , , ,"
+									"
+317, , , , , , , , , , , ,"
+										"
+318, , , , , , , , , , ,"
+		","
+											MTH-123"
+319, , , , , , , , , , ,"
+			","
+										"
+320, , , , , , , , , , , ,"
+											Linear Algebra"
+321, , , , , , , , , , , ,"
+										"
+322, , , , , , , , , , ,"
+	","
+											3"
+323, , , , , , , , , , , ,"
+										"
+324, , , , , , , , , , , ,"
+											0"
+325, , , , , , , , , , , ,"
+										"
+326, , , , , , , , , , , ,"
+											 "
+327, , , , , , , , , , , ,"
+									"
+328, , , , , , , , , , , ,"
+									"
+329, , , , , , , , , , , ,"
+										"
+330, , , , , , , , , , , ,"
+											ENG-112"
+331, , , , , , , , , , , ,"
+										"
+332, , , , , , , , , , , ,"
+											Creative Rhetoric & Writing"
+333, , , , , , , , , , , ,"
+										"
+334, , , , , , , , , , , ,"
+											3"
+335, , , , , , , , , , , ,"
+										"
+336, , , , , , , , , , , ,"
+											0"
+337, , , , , , , , , , , ,"
+										"
+338, , , , , , , , , , , ,"
+											 "
+339, , , , , , , , , , , ,"
+									"
+340, , , , , , , , , , , ,"
+									"
+341, , , , , , , , , , , ,"
+										"
+342, , , , , , , , , , , ,"
+											EE-271"
+343, , , , , , , , , , , ,"
+										"
+344, , , , , , , , , , , ,"
+											Electric Machines"
+345, , , , , , , , , , , ,"
+										"
+346, , , , , , , , , , , ,"
+											3"
+347, , , , , , , , , , , ,"
+										"
+348, , , , , , , , , , , ,"
+											1"
+349, , , , , , , , , , , ,"
+										"
+350, , , , , , , , , , , ,"
+											 "
+351, , , , , , , , , , , ,"
+									"
+352, , , , , , , , , , , ,"
+									"
+353, , , , , , , , , , , ,"
+										"
+354, , , , , , , , , , , ,"
+											EE-253"
+355, , , , , , , , , , , ,"
+										"
+356, , , , , , , , , , , ,"
+											Data Structures & Algorithms"
+357, , , , , , , , , , , ,"
+										"
+358, , , , , , , , , , , ,"
+											2"
+359, , , , , , , , , , , ,"
+										"
+360, , , , , , , , , , , ,"
+											1"
+361, , , , , , , , , , , ,"
+										"
+362, , , , , , , , , , , ,"
+											EE-151"
+363, , , , , , , , , , , ,"
+									"
+364, , , , , , , , , , , ,"
+									"
+365, , , , , , , , , , , ,"
+										"
+366, , , , , , , , , , , ,"
+											EE-232"
+367, , , , , , , , , , , ,"
+										"
+368, , , , , , , , , , , ,"
+											Engineering Drawing"
+369, , , , , , , , , , , ,"
+										"
+370, , , , , , , , , , , ,"
+											0"
+371, , , , , , , , , , , ,"
+										"
+372, , , , , , , , , , , ,"
+											1"
+373, , , , , , , , , , , ,"
+										"
+374, , , , , , , , , , , ,"
+											 "
+375, , , , , , , , , , , ,"
+									"
+376, , , , , , , , , , , ,"
+									"
+377, , , , , , , , , , , ,"
+										"
+378, , , , , , , , , , , ,"
+											 "
+379, , , , , , , , , , , ,"
+										"
+380, , , , , , , , , , , ,"
+											14"
+381, , , , , , , , , , , ,"
+										"
+382, , , , , , , , , , , ,"
+											4"
+383, , , , , , , , , , , ,"
+										"
+384, , , , , , , , , , , ,"
+											 "
+385, , , , , , , , , , , ,"
+									"
+386, , , , , , , , , , , ,"
+								"
+387, , , , , , , , , , , ,"
+"
+388, , , , , , , , , , , ,								
+389, , , , , , , , , , , ,"
+									"
+390, , , , , , , , , , , ,"
+										"
+391, , , , , , , , , , , ,"
+											Semester 5"
+392, , , , , , , , , , , ,"
+									"
+393, , , , , , , , , , , ,"
+									"
+394, , , , , , , , , , , ,"
+										"
+395, , , , , , , , , , , ,"
+											Code"
+396, , , , , , , , , , , ,"
+										"
+397, , , , , , , , , , , ,"
+											Course"
+398, , , , , , , , , , , ,"
+										"
+399, , , , , , , , , , , ,"
+											Theory"
+400, , , , , , , , , , , ,"
+										"
+401, , , , , , , , , , , ,"
+											Lab"
+402, , , , , , , , , , , ,"
+										"
+403, , , , , , , , , , , ,"
+											Pre-req"
+404, , , , , , , , , , , ,"
+									"
+405, , , , , , , , , , , ,"
+								"
+406, , , , , , , , , , , ,"
+								"
+407, , , , , , , , , , , ,"
+									"
+408, , , , , , , , , , , ,"
+										"
+409, , , , , , , , , , , ,"
+											SS-3XX"
+410, , , , , , , , , , , ,"
+										"
+411, , , , , , , , , , , ,"
+											Entrepreneurship"
+412, , , , , , , , , , , ,"
+										"
+413, , , , , , , , , , , ,"
+											3"
+414, , , , , , , , , , , ,"
+										"
+415, , , , , , , , , , , ,"
+											0"
+416, , , , , , , , , , , ,"
+										"
+417, , , , , , , , , , , ,"
+											 "
+418, , , , , , , , , , , ,"
+									"
+419, , , , , , , , , , , ,"
+									"
+420, , , , , , , , , , , ,"
+										"
+421, , , , , , , , , , , ,"
+											EE-341"
+422, , , , , , , , , , , ,"
+										"
+423, , , , , , , , , , , ,"
+											Electromagnetic Theory"
+424, , , , , , , , , , , ,"
+										"
+425, , , , , , , , , , , ,"
+											3"
+426, , , , , , , , , , , ,"
+										"
+427, , , , , , , , , , , ,"
+											0"
+428, , , , , , , , , , , ,"
+										"
+429, , , , , , , , , , , ,"
+											PH-131"
+430, , , , , , , , , , , ,"
+									"
+431, , , , , , , , , , , ,"
+									"
+432, , , , , , , , , , , ,"
+										"
+433, , , , , , , , , , , ,"
+											EE-3XX"
+434, , , , , , , , , , , ,"
+										"
+435, , , , , , , , , , , ,"
+											Breadth Core I"
+436, , , , , , , , , , , ,"
+										"
+437, , , , , , , , , , , ,"
+											3"
+438, , , , , , , , , , , ,"
+										"
+439, , , , , , , , , , , ,"
+											1"
+440, , , , , , , , , , , ,"
+										"
+441, , , , , , , , , , , ,"
+											 "
+442, , , , , , , , , , , ,"
+									"
+443, , , , , , , , , , , ,"
+									"
+444, , , , , , , , , , , ,"
+										"
+445, , , , , , , , , , , ,"
+											SS-302"
+446, , , , , , , , , , , ,"
+										"
+447, , , , , , , , , , , ,"
+											Islamic Studies & Ethics"
+448, , , , , , , , , , , ,"
+										"
+449, , , , , , , , , , , ,"
+											3"
+450, , , , , , , , , , , ,"
+										"
+451, , , , , , , , , , , ,"
+											0"
+452, , , , , , , , , , , ,"
+										"
+453, , , , , , , , , , , ,"
+											 "
+454, , , , , , , , , , , ,"
+									"
+455, , , , , , , , , , , ,"
+									"
+456, , , , , , , , , , , ,"
+										"
+457, , , , , , , , , , , ,"
+											EE-361"
+458, , , , , , , , , , , ,"
+										"
+459, , , , , , , , , , , ,"
+											Control Systems"
+460, , , , , , , , , , , ,"
+										"
+461, , , , , , , , , , , ,"
+											3"
+462, , , , , , , , , , , ,"
+										"
+463, , , , , , , , , , , ,"
+											1"
+464, , , , , , , , , , , ,"
+										"
+465, , , , , , , , , , , ,"
+											EE-241"
+466, , , , , , , , , , , ,"
+									"
+467, , , , , , , , , , , ,"
+									"
+468, , , , , , , , , , , ,"
+										"
+469, , , , , , , , , , , ,"
+											 "
+470, , , , , , , , , , , ,"
+										"
+471, , , , , , , , , , , ,"
+											15"
+472, , , , , , , , , , , ,"
+										"
+473, , , , , , , , , , , ,"
+											2"
+474, , , , , , , , , , , ,"
+										"
+475, , , , , , , , , , , ,"
+											 "
+476, , , , , , , , , , , ,"
+									"
+477, , , , , , , , , , , ,"
+								"
+478, , , , , , , , , , , ,"
+"
+479, , , , , , , , , , , ,								
+480, , , , , , , , , , , ,"
+									"
+481, , , , , , , , , , , ,"
+										"
+482, , , , , , , , , , , ,"
+											Semester 6"
+483, , , , , , , , , , , ,"
+									"
+484, , , , , , , , , , , ,"
+									"
+485, , , , , , , , , , , ,"
+										"
+486, , , , , , , , , , , ,"
+											Code"
+487, , , , , , , , , , , ,"
+										"
+488, , , , , , , , , , , ,"
+											Course"
+489, , , , , , , , , , , ,"
+										"
+490, , , , , , , , , , , ,"
+											Theory"
+491, , , , , , , , , , , ,"
+										"
+492, , , , , , , , , , , ,"
+											Lab"
+493, , , , , , , , , , , ,"
+										"
+494, , , , , , , , , , , ,"
+											Pre-req"
+495, , , , , , , , , , , ,"
+									"
+496, , , , , , , , , , , ,"
+								"
+497, , , , , , , , , , , ,"
+								"
+498, , , , , , , , , , , ,"
+									"
+499, , , , , , , , , , , ,"
+										"
+500, , , , , , , , , , , ,"
+											EE-342"
+501, , , , , , , , , , , ,"
+										"
+502, , , , , , , , , , , ,"
+											Communication Systems"
+503, , , , , , , , , , , ,"
+										"
+504, , , , , , , , , , , ,"
+											3"
+505, , , , , , , , , , , ,"
+										"
+506, , , , , , , , , , , ,"
+											1"
+507, , , , , , , , , , , ,"
+										"
+508, , , , , , , , , , , ,"
+											EE-241"
+509, , , , , , , , , , , ,"
+									"
+510, , , , , , , , , , , ,"
+									"
+511, , , , , , , , , , , ,"
+										"
+512, , , , , , , , , , , ,"
+											EE-343"
+513, , , , , , , , , , , ,"
+										"
+514, , , , , , , , , , , ,"
+											Probability Methods in Engineering"
+515, , , , , , , , , , , ,"
+										"
+516, , , , , , , , , , , ,"
+											3"
+517, , , , , , , , , , , ,"
+										"
+518, , , , , , , , , , , ,"
+											0"
+519, , , , , , , , , , , ,"
+										"
+520, , , , , , , , , , , ,"
+											 "
+521, , , , , , , , , , , ,"
+									"
+522, , , , , , , , , , , ,"
+									"
+523, , , , , , , , , , , ,"
+										"
+524, , , , , , , , , , , ,"
+											EE-371"
+525, , , , , , , , , , , ,"
+										"
+526, , , , , , , , , , , ,"
+											Introduction to Power Engineering"
+527, , , , , , , , , , , ,"
+										"
+528, , , , , , , , , , , ,"
+											2"
+529, , , , , , , , , , , ,"
+										"
+530, , , , , , , , , , , ,"
+											1"
+531, , , , , , , , , , , ,"
+										"
+532, , , , , , , , , , , ,"
+											 "
+533, , , , , , , , , , , ,"
+									"
+534, , , , , , , , , , , ,"
+									"
+535, , , , , , , , , , , ,"
+										"
+536, , , , , , , , , , , ,"
+											EE-3XX"
+537, , , , , , , , , , , ,"
+										"
+538, , , , , , , , , , , ,"
+											Breadth Core II"
+539, , , , , , , , , , , ,"
+										"
+540, , , , , , , , , , , ,"
+											3"
+541, , , , , , , , , , , ,"
+										"
+542, , , , , , , , , , , ,"
+											1"
+543, , , , , , , , , , , ,"
+										"
+544, , , , , , , , , , , ,"
+											EE-151"
+545, , , , , , , , , , , ,"
+									"
+546, , , , , , , , , , , ,"
+									"
+547, , , , , , , , , , , ,"
+										"
+548, , , , , , , , , , , ,"
+											PH-131"
+549, , , , , , , , , , , ,"
+										"
+550, , , , , , , , , , , ,"
+											Electricity and Magnetism"
+551, , , , , , , , , , , ,"
+										"
+552, , , , , , , , , , , ,"
+											3"
+553, , , , , , , , , , , ,"
+										"
+554, , , , , , , , , , , ,"
+											0"
+555, , , , , , , , , , , ,"
+										"
+556, , , , , , , , , , , ,"
+											 "
+557, , , , , , , , , , , ,"
+									"
+558, , , , , , , , , , , ,"
+									"
+559, , , , , , , , , , , ,"
+										"
+560, , , , , , , , , , , ,"
+											 "
+561, , , , , , , , , , , ,"
+										"
+562, , , , , , , , , , , ,"
+											14"
+563, , , , , , , , , , , ,"
+										"
+564, , , , , , , , , , , ,"
+											3"
+565, , , , , , , , , , , ,"
+										"
+566, , , , , , , , , , , ,"
+											 "
+567, , , , , , , , , , , ,"
+									"
+568, , , , , , , , , , , ,"
+								"
+569, , , , , , , , , , , ,"
+"
+570, , , , , , , , , , , ,								
+571, , , , , , , , , , , ,"
+									"
+572, , , , , , , , , , , ,"
+										"
+573, , , , , , , , , , , ,"
+											Semester 7"
+574, , , , , , , , , , , ,"
+									"
+575, , , , , , , , , , , ,"
+									"
+576, , , , , , , , , , , ,"
+										"
+577, , , , , , , , , , , ,"
+											Code"
+578, , , , , , , , , , , ,"
+										"
+579, , , , , , , , , , , ,"
+											Course"
+580, , , , , , , , , , , ,"
+										"
+581, , , , , , , , , , , ,"
+											Theory"
+582, , , , , , , , , , , ,"
+										"
+583, , , , , , , , , , , ,"
+											Lab"
+584, , , , , , , , , , , ,"
+										"
+585, , , , , , , , , , , ,"
+											Pre-req"
+586, , , , , , , , , , , ,"
+									"
+587, , , , , , , , , , , ,"
+								"
+588, , , , , , , , , , , ,"
+								"
+589, , , , , , , , , , , ,"
+									"
+590, , , , , , , , , , , ,"
+										"
+591, , , , , , , , , , , ,"
+											SS-403"
+592, , , , , , , , , , , ,"
+										"
+593, , , , , , , , , , , ,"
+											Pakistan Studies"
+594, , , , , , , , , , , ,"
+										"
+595, , , , , , , , , , , ,"
+											3"
+596, , , , , , , , , , , ,"
+										"
+597, , , , , , , , , , , ,"
+											0"
+598, , , , , , , , , , , ,"
+										"
+599, , , , , , , , , , , ,"
+											 "
+600, , , , , , , , , , , ,"
+									"
+601, , , , , , , , , , , ,"
+									"
+602, , , , , , , , , , , ,"
+										"
+603, , , , , , , , , , , ,"
+											SS-417"
+604, , , , , , , , , , , ,"
+										"
+605, , , , , , , , , , , ,"
+											Introduction to Management"
+606, , , , , , , , , , , ,"
+										"
+607, , , , , , , , , , , ,"
+											3"
+608, , , , , , , , , , , ,"
+										"
+609, , , , , , , , , , , ,"
+											0"
+610, , , , , , , , , , , ,"
+										"
+611, , , , , , , , , , , ,"
+											 "
+612, , , , , , , , , , , ,"
+									"
+613, , , , , , , , , , , ,"
+									"
+614, , , , , , , , , , , ,"
+										"
+615, , , , , , , , , , , ,"
+											EE-4XX"
+616, , , , , , , , , , , ,"
+										"
+617, , , , , , , , , , , ,"
+											Elective – 1"
+618, , , , , , , , , , , ,"
+										"
+619, , , , , , , , , , , ,"
+											3"
+620, , , , , , , , , , , ,"
+										"
+621, , , , , , , , , , , ,"
+											1"
+622, , , , , , , , , , , ,"
+										"
+623, , , , , , , , , , , ,"
+											 "
+624, , , , , , , , , , , ,"
+									"
+625, , , , , , , , , , , ,"
+									"
+626, , , , , , , , , , , ,"
+										"
+627, , , , , , , , , , , ,"
+											EE-4XX"
+628, , , , , , , , , , , ,"
+										"
+629, , , , , , , , , , , ,"
+											Elective – 2"
+630, , , , , , , , , , , ,"
+										"
+631, , , , , , , , , , , ,"
+											3"
+632, , , , , , , , , , , ,"
+										"
+633, , , , , , , , , , , ,"
+											1"
+634, , , , , , , , , , , ,"
+										"
+635, , , , , , , , , , , ,"
+											 "
+636, , , , , , , , , , , ,"
+									"
+637, , , , , , , , , , , ,"
+									"
+638, , , , , , , , , , , ,"
+										"
+639, , , , , , , , , , , ,"
+											EE-499a"
+640, , , , , , , , , , , ,"
+										"
+641, , , , , , , , , , , ,"
+											Final Year Project – l"
+642, , , , , , , , , , , ,"
+										"
+643, , , , , , , , , , , ,"
+											0"
+644, , , , , , , , , , , ,"
+										"
+645, , , , , , , , , , , ,"
+											3"
+646, , , , , , , , , , , ,"
+										"
+647, , , , , , , , , , , ,"
+											 "
+648, , , , , , , , , , , ,"
+									"
+649, , , , , , , , , , , ,"
+									"
+650, , , , , , , , , , , ,"
+										"
+651, , , , , , , , , , , ,"
+											 "
+652, , , , , , , , , , , ,"
+										"
+653, , , , , , , , , , , ,"
+											12"
+654, , , , , , , , , , , ,"
+										"
+655, , , , , , , , , , , ,"
+											5"
+656, , , , , , , , , , , ,"
+										"
+657, , , , , , , , , , , ,"
+											 "
+658, , , , , , , , , , , ,"
+									"
+659, , , , , , , , , , , ,"
+								"
+660, , , , , , , , , , , ,"
+"
+661, , , , , , , , , , , ,								
+662, , , , , , , , , , , ,"
+									"
+663, , , , , , , , , , , ,"
+										"
+664, , , , , , , , , , , ,"
+											Semester 8"
+665, , , , , , , , , , , ,"
+									"
+666, , , , , , , , , , , ,"
+									"
+667, , , , , , , , , , , ,"
+										"
+668, , , , , , , , , , , ,"
+											Code"
+669, , , , , , , , , , , ,"
+										"
+670, , , , , , , , , , , ,"
+											Course"
+671, , , , , , , , , , , ,"
+										"
+672, , , , , , , , , , , ,"
+											Theory"
+673, , , , , , , , , , , ,"
+										"
+674, , , , , , , , , , , ,"
+											Lab"
+675, , , , , , , , , , , ,"
+										"
+676, , , , , , , , , , , ,"
+											Pre-req"
+677, , , , , , , , , , , ,"
+									"
+678, , , , , , , , , , , ,"
+								"
+679, , , , , , , , , , , ,"
+								"
+680, , , , , , , , , , , ,"
+									"
+681, , , , , , , , , , , ,"
+										"
+682, , , , , , , , , , , ,"
+											EE-4XX"
+683, , , , , , , , , , , ,"
+										"
+684, , , , , , , , , , , ,"
+											Introduction to Mechatronics Engineering"
+685, , , , , , , , , , , ,"
+										"
+686, , , , , , , , , , , ,"
+											3"
+687, , , , , , , , , , , ,"
+										"
+688, , , , , , , , , , , ,"
+											0"
+689, , , , , , , , , , , ,"
+										"
+690, , , , , , , , , , , ,"
+											 "
+691, , , , , , , , , , , ,"
+									"
+692, , , , , , , , , , , ,"
+									"
+693, , , , , , , , , , , ,"
+										"
+694, , , , , , , , , , , ,"
+											EE-4XX"
+695, , , , , , , , , , , ,"
+										"
+696, , , , , , , , , , , ,"
+											Elective – 3"
+697, , , , , , , , , , , ,"
+										"
+698, , , , , , , , , , , ,"
+											3"
+699, , , , , , , , , , , ,"
+										"
+700, , , , , , , , , , , ,"
+											1"
+701, , , , , , , , , , , ,"
+										"
+702, , , , , , , , , , , ,"
+											 "
+703, , , , , , , , , , , ,"
+									"
+704, , , , , , , , , , , ,"
+									"
+705, , , , , , , , , , , ,"
+										"
+706, , , , , , , , , , , ,"
+											EE-4XX"
+707, , , , , , , , , , , ,"
+										"
+708, , , , , , , , , , , ,"
+											Elective – 4"
+709, , , , , , , , , , , ,"
+										"
+710, , , , , , , , , , , ,"
+											3"
+711, , , , , , , , , , , ,"
+										"
+712, , , , , , , , , , , ,"
+											1"
+713, , , , , , , , , , , ,"
+										"
+714, , , , , , , , , , , ,"
+											 "
+715, , , , , , , , , , , ,"
+									"
+716, , , , , , , , , , , ,"
+									"
+717, , , , , , , , , , , ,"
+										"
+718, , , , , , , , , , , ,"
+											EE-4XX"
+719, , , , , , , , , , , ,"
+										"
+720, , , , , , , , , , , ,"
+											Elective – 5"
+721, , , , , , , , , , , ,"
+										"
+722, , , , , , , , , , , ,"
+											3"
+723, , , , , , , , , , , ,"
+										"
+724, , , , , , , , , , , ,"
+											0"
+725, , , , , , , , , , , ,"
+										"
+726, , , , , , , , , , , ,"
+											 "
+727, , , , , , , , , , , ,"
+									"
+728, , , , , , , , , , , ,"
+									"
+729, , , , , , , , , , , ,"
+										"
+730, , , , , , , , , , , ,"
+											EE-499b"
+731, , , , , , , , , , , ,"
+										"
+732, , , , , , , , , , , ,"
+											Final Year Project – 2"
+733, , , , , , , , , , , ,"
+										"
+734, , , , , , , , , , , ,"
+											0"
+735, , , , , , , , , , , ,"
+										"
+736, , , , , , , , , , , ,"
+											3"
+737, , , , , , , , , , , ,"
+										"
+738, , , , , , , , , , , ,"
+											 "
+739, , , , , , , , , , , ,"
+									"
+740, , , , , , , , , , , ,"
+									"
+741, , , , , , , , , , , ,"
+										"
+742, , , , , , , , , , , ,"
+											 "
+743, , , , , , , , , , , ,"
+										"
+744, , , , , , , , , , , ,"
+											12"
+745, , , , , , , , , , , ,"
+										"
+746, , , , , , , , , , , ,"
+											5"
+747, , , , , , , , , , , ,"
+										"
+748, , , , , , , , , , , ,"
+											 "
+749, , , , , , , , , , , ,"
+									"
+750, , , , , , , , , , , ,"
+								"
+751, , , , , , , , , , , ,"
+							"
+752, , , , , , , , , , , ,"
+								"
+753, , , , , , , , , , , ,"
+									"
+754, , , , , , , , , , , ,"
+										"
+755, , , , , , , , , , , ,"
+											S. No"
+756, , , , , , , , , , , ,"
+										"
+757, , , , , , , , , , , ,"
+											Elective Courses"
+758, , , , , , , , , , , ,"
+										"
+759, , , , , , , , , , , ,"
+											Breadth Core - I"
+760, , , , , , , , , , , ,"
+										"
+761, , , , , , , , , , , ,"
+											Breadth Core – II"
+762, , , , , , , , , , , ,"
+									"
+763, , , , , , , , , , , ,"
+								"
+764, , , , , , , , , , , ,"
+								"
+765, , , , , , , , , , , ,"
+									"
+766, , , , , , , , , , , ,"
+										"
+767, , , , , , , , , , , ,"
+											1"
+768, , , , , , , , , , , ,"
+										"
+769, , , , , , , , , , , ,"
+											Digital Signal Processing"
+770, , , , , , , , , , , ,"
+										"
+771, , , , , , , , , , , ,"
+											Operating Systems"
+772, , , , , , , , , , , ,"
+										"
+773, , , , , , , , , , , ,"
+											Computer Communication Networks"
+774, , , , , , , , , , , ,"
+									"
+775, , , , , , , , , , , ,"
+									"
+776, , , , , , , , , , , ,"
+										"
+777, , , , , , , , , , , ,"
+											2"
+778, , , , , , , , , , , ,"
+										"
+779, , , , , , , , , , , ,"
+											Digital Control Systems"
+780, , , , , , , , , , , ,"
+										"
+781, , , , , , , , , , , ,"
+											Computer Communication Networks"
+782, , , , , , , , , , , ,"
+										"
+783, , , , , , , , , , , ,"
+											Electronic Circuit Design"
+784, , , , , , , , , , , ,"
+									"
+785, , , , , , , , , , , ,"
+									"
+786, , , , , , , , , , , ,"
+										"
+787, , , , , , , , , , , ,"
+											3"
+788, , , , , , , , , , , ,"
+										"
+789, , , , , , , , , , , ,"
+											Data Communication"
+790, , , , , , , , , , , ,"
+										"
+791, , , , , , , , , , , ,"
+											Electronic Circuit Design"
+792, , , , , , , , , , , ,"
+										"
+793, , , , , , , , , , , ,"
+											Power Electronics"
+794, , , , , , , , , , , ,"
+									"
+795, , , , , , , , , , , ,"
+									"
+796, , , , , , , , , , , ,"
+										"
+797, , , , , , , , , , , ,"
+											4"
+798, , , , , , , , , , , ,"
+										"
+799, , , , , , , , , , , ,"
+											Digital System Design"
+800, , , , , , , , , , , ,"
+										"
+801, , , , , , , , , , , ,"
+											Power System Analysis"
+802, , , , , , , , , , , ,"
+										"
+803, , , , , , , , , , , ,"
+											Power Distribution and Utilization"
+804, , , , , , , , , , , ,"
+									"
+805, , , , , , , , , , , ,"
+									"
+806, , , , , , , , , , , ,"
+										"
+807, , , , , , , , , , , ,"
+											5"
+808, , , , , , , , , , , ,"
+										"
+809, , , , , , , , , , , ,"
+											Power Electronics"
+810, , , , , , , , , , , ,"
+										"
+811, , , , , , , , , , , ,"
+											 "
+812, , , , , , , , , , , ,"
+									"
+813, , , , , , , , , , , ,"
+									"
+814, , , , , , , , , , , ,"
+										"
+815, , , , , , , , , , , ,"
+											6"
+816, , , , , , , , , , , ,"
+										"
+817, , , , , , , , , , , ,"
+											Wireless Communication"
+818, , , , , , , , , , , ,"
+										"
+819, , , , , , , , , , , ,"
+											 "
+820, , , , , , , , , , , ,"
+									"
+821, , , , , , , , , , , ,"
+									"
+822, , , , , , , , , , , ,"
+										"
+823, , , , , , , , , , , ,"
+											7"
+824, , , , , , , , , , , ,"
+										"
+825, , , , , , , , , , , ,"
+											Power System Analysis"
+826, , , , , , , , , , , ,"
+										"
+827, , , , , , , , , , , ,"
+											 "
+828, , , , , , , , , , , ,"
+									"
+829, , , , , , , , , , , ,"
+									"
+830, , , , , , , , , , , ,"
+										"
+831, , , , , , , , , , , ,"
+											8"
+832, , , , , , , , , , , ,"
+										"
+833, , , , , , , , , , , ,"
+											Power System Protection"
+834, , , , , , , , , , , ,"
+										"
+835, , , , , , , , , , , ,"
+											 "
+836, , , , , , , , , , , ,"
+									"
+837, , , , , , , , , , , ,"
+									"
+838, , , , , , , , , , , ,"
+										"
+839, , , , , , , , , , , ,"
+											9"
+840, , , , , , , , , , , ,"
+										"
+841, , , , , , , , , , , ,"
+											Renewable Energy Systems"
+842, , , , , , , , , , , ,"
+										"
+843, , , , , , , , , , , ,"
+											 "
+844, , , , , , , , , , , ,"
+									"
+845, , , , , , , , , , , ,"
+								"
+846, , , , , , , , , , , ,"
+							"
+,Current_Page_Url,Title,Links,Images_with_url,Paragraph,Heading1,Heading2,Heading3,Heading4,Heading5,UnorderList,TableData
+0,https://nulms.namal.edu.pk,Namal Institute LMS,#maincontent,https://nulms.namal.edu.pk/pluginfile.php/1/core_admin/logo/0x150/1613570337/NULMS%20Purple%20Logo.png, , ,Courses, , , ,"
+                ", 
+1, , ,https://nulms.namal.edu.pk,https://nulms.namal.edu.pk/theme/image.php/boost/core/1613570337/moodlelogo, , , , , , ,"
+                
+                ", 
+2, , ,https://nulms.namal.edu.pk/login/index.php, , , , , , , ,"
+                
+            ", 
+3, , ,#skipcourses, , , , , , , ,"
+                ", 
+4, , ,#, , , , , , , ,"
+                
+            ", 
+5, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=111, , , , , , , ,"
+                ", 
+6, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=112, , , , , , , ,"
+                ", 
+7, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=124, , , , , , , ,"
+                
+                ", 
+8, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=141, , , , , , , ,"
+                ", 
+9, , ,https://nulms.namal.edu.pk/course/view.php?id=446, , , , , , , ,"
+                ", 
+10, , ,https://nulms.namal.edu.pk/course/view.php?id=445, , , , , , , ,"
+                    ", 
+11, , ,https://nulms.namal.edu.pk/course/view.php?id=444, , , , , , , ,You are not logged in. (, 
+12, , ,https://nulms.namal.edu.pk/course/view.php?id=443, , , , , , , ,Log in, 
+13, , ,https://nulms.namal.edu.pk/course/view.php?id=442, , , , , , , ,), 
+14, , ,https://nulms.namal.edu.pk/course/view.php?id=441, , , , , , , ,"
+                ", 
+15, , ,https://nulms.namal.edu.pk/course/view.php?id=440, , , , , , , ,"
+            ", 
+16, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=142, , , , , , , ,"
+                ", 
+17, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=125, , , , , , , , , 
+18, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=143, , , , , , , , , 
+19, , ,https://nulms.namal.edu.pk/course/view.php?id=475, , , , , , , , , 
+20, , ,https://nulms.namal.edu.pk/course/view.php?id=474, , , , , , , , , 
+21, , ,https://nulms.namal.edu.pk/course/view.php?id=473, , , , , , , , , 
+22, , ,https://nulms.namal.edu.pk/course/view.php?id=472, , , , , , , , , 
+23, , ,https://nulms.namal.edu.pk/course/view.php?id=471, , , , , , , , , 
+24, , ,https://nulms.namal.edu.pk/course/view.php?id=470, , , , , , , , , 
+25, , ,https://nulms.namal.edu.pk/course/view.php?id=469, , , , , , , , , 
+26, , ,https://nulms.namal.edu.pk/course/view.php?id=468, , , , , , , , , 
+27, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=144, , , , , , , , , 
+28, , ,https://nulms.namal.edu.pk/course/view.php?id=602, , , , , , , , , 
+29, , ,https://nulms.namal.edu.pk/course/view.php?id=601, , , , , , , , , 
+30, , ,https://nulms.namal.edu.pk/course/view.php?id=600, , , , , , , , , 
+31, , ,https://nulms.namal.edu.pk/course/view.php?id=599, , , , , , , , , 
+32, , ,https://nulms.namal.edu.pk/course/view.php?id=598, , , , , , , , , 
+33, , ,https://nulms.namal.edu.pk/course/view.php?id=597, , , , , , , , , 
+34, , ,https://nulms.namal.edu.pk/course/view.php?id=596, , , , , , , , , 
+35, , ,https://nulms.namal.edu.pk/course/view.php?id=595, , , , , , , , , 
+36, , ,https://nulms.namal.edu.pk/course/view.php?id=594, , , , , , , , , 
+37, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=126, , , , , , , , , 
+38, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=145, , , , , , , , , 
+39, , ,https://nulms.namal.edu.pk/course/view.php?id=496, , , , , , , , , 
+40, , ,https://nulms.namal.edu.pk/course/view.php?id=495, , , , , , , , , 
+41, , ,https://nulms.namal.edu.pk/course/view.php?id=494, , , , , , , , , 
+42, , ,https://nulms.namal.edu.pk/course/view.php?id=493, , , , , , , , , 
+43, , ,https://nulms.namal.edu.pk/course/view.php?id=492, , , , , , , , , 
+44, , ,https://nulms.namal.edu.pk/course/view.php?id=491, , , , , , , , , 
+45, , ,https://nulms.namal.edu.pk/course/view.php?id=490, , , , , , , , , 
+46, , ,https://nulms.namal.edu.pk/course/view.php?id=489, , , , , , , , , 
+47, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=146, , , , , , , , , 
+48, , ,https://nulms.namal.edu.pk/course/view.php?id=581, , , , , , , , , 
+49, , ,https://nulms.namal.edu.pk/course/view.php?id=580, , , , , , , , , 
+50, , ,https://nulms.namal.edu.pk/course/view.php?id=579, , , , , , , , , 
+51, , ,https://nulms.namal.edu.pk/course/view.php?id=578, , , , , , , , , 
+52, , ,https://nulms.namal.edu.pk/course/view.php?id=577, , , , , , , , , 
+53, , ,https://nulms.namal.edu.pk/course/view.php?id=576, , , , , , , , , 
+54, , ,https://nulms.namal.edu.pk/course/view.php?id=575, , , , , , , , , 
+55, , ,https://nulms.namal.edu.pk/course/view.php?id=574, , , , , , , , , 
+56, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=140, , , , , , , , , 
+57, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=147, , , , , , , , , 
+58, , ,https://nulms.namal.edu.pk/course/view.php?id=533, , , , , , , , , 
+59, , ,https://nulms.namal.edu.pk/course/view.php?id=532, , , , , , , , , 
+60, , ,https://nulms.namal.edu.pk/course/view.php?id=518, , , , , , , , , 
+61, , ,https://nulms.namal.edu.pk/course/view.php?id=517, , , , , , , , , 
+62, , ,https://nulms.namal.edu.pk/course/view.php?id=516, , , , , , , , , 
+63, , ,https://nulms.namal.edu.pk/course/view.php?id=513, , , , , , , , , 
+64, , ,https://nulms.namal.edu.pk/course/view.php?id=512, , , , , , , , , 
+65, , ,https://nulms.namal.edu.pk/course/view.php?id=511, , , , , , , , , 
+66, , ,https://nulms.namal.edu.pk/course/view.php?id=510, , , , , , , , , 
+67, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=148, , , , , , , , , 
+68, , ,https://nulms.namal.edu.pk/course/view.php?id=565, , , , , , , , , 
+69, , ,https://nulms.namal.edu.pk/course/view.php?id=564, , , , , , , , , 
+70, , ,https://nulms.namal.edu.pk/course/view.php?id=563, , , , , , , , , 
+71, , ,https://nulms.namal.edu.pk/course/view.php?id=541, , , , , , , , , 
+72, , ,https://nulms.namal.edu.pk/course/info.php?id=541, , , , , , , , , 
+73, , ,https://nulms.namal.edu.pk/course/view.php?id=544, , , , , , , , , 
+74, , ,https://nulms.namal.edu.pk/course/view.php?id=545, , , , , , , , , 
+75, , ,https://nulms.namal.edu.pk/course/view.php?id=546, , , , , , , , , 
+76, , ,https://nulms.namal.edu.pk/course/view.php?id=547, , , , , , , , , 
+77, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=113, , , , , , , , , 
+78, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=128, , , , , , , , , 
+79, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=149, , , , , , , , , 
+80, , ,https://nulms.namal.edu.pk/course/view.php?id=454, , , , , , , , , 
+81, , ,https://nulms.namal.edu.pk/course/view.php?id=453, , , , , , , , , 
+82, , ,https://nulms.namal.edu.pk/course/view.php?id=452, , , , , , , , , 
+83, , ,https://nulms.namal.edu.pk/course/view.php?id=451, , , , , , , , , 
+84, , ,https://nulms.namal.edu.pk/course/view.php?id=450, , , , , , , , , 
+85, , ,https://nulms.namal.edu.pk/course/view.php?id=449, , , , , , , , , 
+86, , ,https://nulms.namal.edu.pk/course/view.php?id=447, , , , , , , , , 
+87, , ,https://nulms.namal.edu.pk/course/info.php?id=447, , , , , , , , , 
+88, , ,https://nulms.namal.edu.pk/course/view.php?id=448, , , , , , , , , 
+89, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=150, , , , , , , , , 
+90, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=129, , , , , , , , , 
+91, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=151, , , , , , , , , 
+92, , ,https://nulms.namal.edu.pk/course/view.php?id=482, , , , , , , , , 
+93, , ,https://nulms.namal.edu.pk/course/view.php?id=481, , , , , , , , , 
+94, , ,https://nulms.namal.edu.pk/course/view.php?id=480, , , , , , , , , 
+95, , ,https://nulms.namal.edu.pk/course/view.php?id=479, , , , , , , , , 
+96, , ,https://nulms.namal.edu.pk/course/view.php?id=478, , , , , , , , , 
+97, , ,https://nulms.namal.edu.pk/course/view.php?id=477, , , , , , , , , 
+98, , ,https://nulms.namal.edu.pk/course/info.php?id=477, , , , , , , , , 
+99, , ,https://nulms.namal.edu.pk/course/view.php?id=476, , , , , , , , , 
+100, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=152, , , , , , , , , 
+101, , ,https://nulms.namal.edu.pk/course/view.php?id=593, , , , , , , , , 
+102, , ,https://nulms.namal.edu.pk/course/view.php?id=592, , , , , , , , , 
+103, , ,https://nulms.namal.edu.pk/course/view.php?id=591, , , , , , , , , 
+104, , ,https://nulms.namal.edu.pk/course/view.php?id=590, , , , , , , , , 
+105, , ,https://nulms.namal.edu.pk/course/view.php?id=589, , , , , , , , , 
+106, , ,https://nulms.namal.edu.pk/course/view.php?id=588, , , , , , , , , 
+107, , ,https://nulms.namal.edu.pk/course/view.php?id=587, , , , , , , , , 
+108, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=130, , , , , , , , , 
+109, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=153, , , , , , , , , 
+110, , ,https://nulms.namal.edu.pk/course/view.php?id=503, , , , , , , , , 
+111, , ,https://nulms.namal.edu.pk/course/view.php?id=502, , , , , , , , , 
+112, , ,https://nulms.namal.edu.pk/course/view.php?id=501, , , , , , , , , 
+113, , ,https://nulms.namal.edu.pk/course/view.php?id=500, , , , , , , , , 
+114, , ,https://nulms.namal.edu.pk/course/view.php?id=499, , , , , , , , , 
+115, , ,https://nulms.namal.edu.pk/course/view.php?id=498, , , , , , , , , 
+116, , ,https://nulms.namal.edu.pk/course/view.php?id=497, , , , , , , , , 
+117, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=154, , , , , , , , , 
+118, , ,https://nulms.namal.edu.pk/course/view.php?id=573, , , , , , , , , 
+119, , ,https://nulms.namal.edu.pk/course/view.php?id=572, , , , , , , , , 
+120, , ,https://nulms.namal.edu.pk/course/view.php?id=571, , , , , , , , , 
+121, , ,https://nulms.namal.edu.pk/course/view.php?id=570, , , , , , , , , 
+122, , ,https://nulms.namal.edu.pk/course/view.php?id=569, , , , , , , , , 
+123, , ,https://nulms.namal.edu.pk/course/view.php?id=568, , , , , , , , , 
+124, , ,https://nulms.namal.edu.pk/course/view.php?id=567, , , , , , , , , 
+125, , ,https://nulms.namal.edu.pk/course/view.php?id=566, , , , , , , , , 
+126, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=131, , , , , , , , , 
+127, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=155, , , , , , , , , 
+128, , ,https://nulms.namal.edu.pk/course/view.php?id=535, , , , , , , , , 
+129, , ,https://nulms.namal.edu.pk/course/view.php?id=524, , , , , , , , , 
+130, , ,https://nulms.namal.edu.pk/course/view.php?id=523, , , , , , , , , 
+131, , ,https://nulms.namal.edu.pk/course/view.php?id=522, , , , , , , , , 
+132, , ,https://nulms.namal.edu.pk/course/view.php?id=521, , , , , , , , , 
+133, , ,https://nulms.namal.edu.pk/course/view.php?id=520, , , , , , , , , 
+134, , ,https://nulms.namal.edu.pk/course/view.php?id=519, , , , , , , , , 
+135, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=156, , , , , , , , , 
+136, , ,https://nulms.namal.edu.pk/course/view.php?id=548, , , , , , , , , 
+137, , ,https://nulms.namal.edu.pk/course/view.php?id=549, , , , , , , , , 
+138, , ,https://nulms.namal.edu.pk/course/view.php?id=550, , , , , , , , , 
+139, , ,https://nulms.namal.edu.pk/course/view.php?id=551, , , , , , , , , 
+140, , ,https://nulms.namal.edu.pk/course/view.php?id=552, , , , , , , , , 
+141, , ,https://nulms.namal.edu.pk/course/view.php?id=553, , , , , , , , , 
+142, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=114, , , , , , , , , 
+143, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=132, , , , , , , , , 
+144, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=157, , , , , , , , , 
+145, , ,https://nulms.namal.edu.pk/course/view.php?id=461, , , , , , , , , 
+146, , ,https://nulms.namal.edu.pk/course/view.php?id=460, , , , , , , , , 
+147, , ,https://nulms.namal.edu.pk/course/view.php?id=459, , , , , , , , , 
+148, , ,https://nulms.namal.edu.pk/course/view.php?id=458, , , , , , , , , 
+149, , ,https://nulms.namal.edu.pk/course/view.php?id=457, , , , , , , , , 
+150, , ,https://nulms.namal.edu.pk/course/view.php?id=456, , , , , , , , , 
+151, , ,https://nulms.namal.edu.pk/course/view.php?id=455, , , , , , , , , 
+152, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=158, , , , , , , , , 
+153, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=133, , , , , , , , , 
+154, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=159, , , , , , , , , 
+155, , ,https://nulms.namal.edu.pk/course/view.php?id=488, , , , , , , , , 
+156, , ,https://nulms.namal.edu.pk/course/view.php?id=487, , , , , , , , , 
+157, , ,https://nulms.namal.edu.pk/course/view.php?id=486, , , , , , , , , 
+158, , ,https://nulms.namal.edu.pk/course/view.php?id=485, , , , , , , , , 
+159, , ,https://nulms.namal.edu.pk/course/view.php?id=484, , , , , , , , , 
+160, , ,https://nulms.namal.edu.pk/course/view.php?id=483, , , , , , , , , 
+161, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=160, , , , , , , , , 
+162, , ,https://nulms.namal.edu.pk/course/view.php?id=607, , , , , , , , , 
+163, , ,https://nulms.namal.edu.pk/course/view.php?id=606, , , , , , , , , 
+164, , ,https://nulms.namal.edu.pk/course/view.php?id=605, , , , , , , , , 
+165, , ,https://nulms.namal.edu.pk/course/view.php?id=604, , , , , , , , , 
+166, , ,https://nulms.namal.edu.pk/course/view.php?id=603, , , , , , , , , 
+167, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=134, , , , , , , , , 
+168, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=161, , , , , , , , , 
+169, , ,https://nulms.namal.edu.pk/course/view.php?id=509, , , , , , , , , 
+170, , ,https://nulms.namal.edu.pk/course/view.php?id=508, , , , , , , , , 
+171, , ,https://nulms.namal.edu.pk/course/view.php?id=507, , , , , , , , , 
+172, , ,https://nulms.namal.edu.pk/course/view.php?id=506, , , , , , , , , 
+173, , ,https://nulms.namal.edu.pk/course/view.php?id=505, , , , , , , , , 
+174, , ,https://nulms.namal.edu.pk/course/view.php?id=504, , , , , , , , , 
+175, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=162, , , , , , , , , 
+176, , ,https://nulms.namal.edu.pk/course/view.php?id=586, , , , , , , , , 
+177, , ,https://nulms.namal.edu.pk/course/view.php?id=585, , , , , , , , , 
+178, , ,https://nulms.namal.edu.pk/course/view.php?id=584, , , , , , , , , 
+179, , ,https://nulms.namal.edu.pk/course/view.php?id=583, , , , , , , , , 
+180, , ,https://nulms.namal.edu.pk/course/view.php?id=582, , , , , , , , , 
+181, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=135, , , , , , , , , 
+182, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=163, , , , , , , , , 
+183, , ,https://nulms.namal.edu.pk/course/view.php?id=536, , , , , , , , , 
+184, , ,https://nulms.namal.edu.pk/course/view.php?id=534, , , , , , , , , 
+185, , ,https://nulms.namal.edu.pk/course/view.php?id=530, , , , , , , , , 
+186, , ,https://nulms.namal.edu.pk/course/view.php?id=529, , , , , , , , , 
+187, , ,https://nulms.namal.edu.pk/course/view.php?id=528, , , , , , , , , 
+188, , ,https://nulms.namal.edu.pk/course/view.php?id=527, , , , , , , , , 
+189, , ,https://nulms.namal.edu.pk/course/view.php?id=526, , , , , , , , , 
+190, , ,https://nulms.namal.edu.pk/course/view.php?id=525, , , , , , , , , 
+191, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=164, , , , , , , , , 
+192, , ,https://nulms.namal.edu.pk/course/view.php?id=554, , , , , , , , , 
+193, , ,https://nulms.namal.edu.pk/course/view.php?id=555, , , , , , , , , 
+194, , ,https://nulms.namal.edu.pk/course/view.php?id=556, , , , , , , , , 
+195, , ,https://nulms.namal.edu.pk/course/view.php?id=557, , , , , , , , , 
+196, , ,https://nulms.namal.edu.pk/course/view.php?id=558, , , , , , , , , 
+197, , ,https://nulms.namal.edu.pk/course/view.php?id=559, , , , , , , , , 
+198, , ,https://nulms.namal.edu.pk/course/view.php?id=560, , , , , , , , , 
+199, , ,https://nulms.namal.edu.pk/course/view.php?id=561, , , , , , , , , 
+200, , ,https://nulms.namal.edu.pk/course/info.php?id=561, , , , , , , , , 
+201, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=115, , , , , , , , , 
+202, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=136, , , , , , , , , 
+203, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=165, , , , , , , , , 
+204, , ,https://nulms.namal.edu.pk/course/view.php?id=467, , , , , , , , , 
+205, , ,https://nulms.namal.edu.pk/course/info.php?id=467, , , , , , , , , 
+206, , ,https://nulms.namal.edu.pk/course/view.php?id=466, , , , , , , , , 
+207, , ,https://nulms.namal.edu.pk/course/view.php?id=465, , , , , , , , , 
+208, , ,https://nulms.namal.edu.pk/course/view.php?id=464, , , , , , , , , 
+209, , ,https://nulms.namal.edu.pk/course/view.php?id=463, , , , , , , , , 
+210, , ,https://nulms.namal.edu.pk/course/view.php?id=462, , , , , , , , , 
+211, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=166, , , , , , , , , 
+212, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=64, , , , , , , , , 
+213, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=66, , , , , , , , , 
+214, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=72, , , , , , , , , 
+215, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=88, , , , , , , , , 
+216, , ,https://nulms.namal.edu.pk/course/view.php?id=301, , , , , , , , , 
+217, , ,https://nulms.namal.edu.pk/course/view.php?id=300, , , , , , , , , 
+218, , ,https://nulms.namal.edu.pk/course/view.php?id=299, , , , , , , , , 
+219, , ,https://nulms.namal.edu.pk/course/view.php?id=298, , , , , , , , , 
+220, , ,https://nulms.namal.edu.pk/course/view.php?id=297, , , , , , , , , 
+221, , ,https://nulms.namal.edu.pk/course/view.php?id=296, , , , , , , , , 
+222, , ,https://nulms.namal.edu.pk/course/view.php?id=294, , , , , , , , , 
+223, , ,https://nulms.namal.edu.pk/course/view.php?id=293, , , , , , , , , 
+224, , ,https://nulms.namal.edu.pk/course/view.php?id=292, , , , , , , , , 
+225, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=89, , , , , , , , , 
+226, , ,https://nulms.namal.edu.pk/course/view.php?id=427, , , , , , , , , 
+227, , ,https://nulms.namal.edu.pk/course/view.php?id=426, , , , , , , , , 
+228, , ,https://nulms.namal.edu.pk/course/view.php?id=345, , , , , , , , , 
+229, , ,https://nulms.namal.edu.pk/course/view.php?id=346, , , , , , , , , 
+230, , ,https://nulms.namal.edu.pk/course/view.php?id=347, , , , , , , , , 
+231, , ,https://nulms.namal.edu.pk/course/view.php?id=348, , , , , , , , , 
+232, , ,https://nulms.namal.edu.pk/course/view.php?id=349, , , , , , , , , 
+233, , ,https://nulms.namal.edu.pk/course/info.php?id=349, , , , , , , , , 
+234, , ,https://nulms.namal.edu.pk/course/view.php?id=350, , , , , , , , , 
+235, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=73, , , , , , , , , 
+236, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=90, , , , , , , , , 
+237, , ,https://nulms.namal.edu.pk/course/view.php?id=249, , , , , , , , , 
+238, , ,https://nulms.namal.edu.pk/course/view.php?id=250, , , , , , , , , 
+239, , ,https://nulms.namal.edu.pk/course/view.php?id=251, , , , , , , , , 
+240, , ,https://nulms.namal.edu.pk/course/view.php?id=252, , , , , , , , , 
+241, , ,https://nulms.namal.edu.pk/course/view.php?id=253, , , , , , , , , 
+242, , ,https://nulms.namal.edu.pk/course/view.php?id=254, , , , , , , , , 
+243, , ,https://nulms.namal.edu.pk/course/view.php?id=255, , , , , , , , , 
+244, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=91, , , , , , , , , 
+245, , ,https://nulms.namal.edu.pk/course/view.php?id=351, , , , , , , , , 
+246, , ,https://nulms.namal.edu.pk/course/view.php?id=365, , , , , , , , , 
+247, , ,https://nulms.namal.edu.pk/course/view.php?id=352, , , , , , , , , 
+248, , ,https://nulms.namal.edu.pk/course/view.php?id=353, , , , , , , , , 
+249, , ,https://nulms.namal.edu.pk/course/view.php?id=354, , , , , , , , , 
+250, , ,https://nulms.namal.edu.pk/course/view.php?id=355, , , , , , , , , 
+251, , ,https://nulms.namal.edu.pk/course/view.php?id=356, , , , , , , , , 
+252, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=74, , , , , , , , , 
+253, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=92, , , , , , , , , 
+254, , ,https://nulms.namal.edu.pk/course/view.php?id=277, , , , , , , , , 
+255, , ,https://nulms.namal.edu.pk/course/view.php?id=276, , , , , , , , , 
+256, , ,https://nulms.namal.edu.pk/course/view.php?id=275, , , , , , , , , 
+257, , ,https://nulms.namal.edu.pk/course/view.php?id=274, , , , , , , , , 
+258, , ,https://nulms.namal.edu.pk/course/view.php?id=273, , , , , , , , , 
+259, , ,https://nulms.namal.edu.pk/course/view.php?id=272, , , , , , , , , 
+260, , ,https://nulms.namal.edu.pk/course/view.php?id=271, , , , , , , , , 
+261, , ,https://nulms.namal.edu.pk/course/view.php?id=270, , , , , , , , , 
+262, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=93, , , , , , , , , 
+263, , ,https://nulms.namal.edu.pk/course/view.php?id=357, , , , , , , , , 
+264, , ,https://nulms.namal.edu.pk/course/view.php?id=358, , , , , , , , , 
+265, , ,https://nulms.namal.edu.pk/course/view.php?id=359, , , , , , , , , 
+266, , ,https://nulms.namal.edu.pk/course/view.php?id=360, , , , , , , , , 
+267, , ,https://nulms.namal.edu.pk/course/info.php?id=360, , , , , , , , , 
+268, , ,https://nulms.namal.edu.pk/course/view.php?id=361, , , , , , , , , 
+269, , ,https://nulms.namal.edu.pk/course/view.php?id=362, , , , , , , , , 
+270, , ,https://nulms.namal.edu.pk/course/view.php?id=363, , , , , , , , , 
+271, , ,https://nulms.namal.edu.pk/course/view.php?id=364, , , , , , , , , 
+272, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=75, , , , , , , , , 
+273, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=94, , , , , , , , , 
+274, , ,https://nulms.namal.edu.pk/course/view.php?id=332, , , , , , , , , 
+275, , ,https://nulms.namal.edu.pk/course/view.php?id=330, , , , , , , , , 
+276, , ,https://nulms.namal.edu.pk/course/view.php?id=322, , , , , , , , , 
+277, , ,https://nulms.namal.edu.pk/course/view.php?id=321, , , , , , , , , 
+278, , ,https://nulms.namal.edu.pk/course/view.php?id=320, , , , , , , , , 
+279, , ,https://nulms.namal.edu.pk/course/view.php?id=319, , , , , , , , , 
+280, , ,https://nulms.namal.edu.pk/course/view.php?id=318, , , , , , , , , 
+281, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=95, , , , , , , , , 
+282, , ,https://nulms.namal.edu.pk/course/view.php?id=433, , , , , , , , , 
+283, , ,https://nulms.namal.edu.pk/course/view.php?id=366, , , , , , , , , 
+284, , ,https://nulms.namal.edu.pk/course/view.php?id=367, , , , , , , , , 
+285, , ,https://nulms.namal.edu.pk/course/view.php?id=431, , , , , , , , , 
+286, , ,https://nulms.namal.edu.pk/course/view.php?id=368, , , , , , , , , 
+287, , ,https://nulms.namal.edu.pk/course/view.php?id=369, , , , , , , , , 
+288, , ,https://nulms.namal.edu.pk/course/view.php?id=370, , , , , , , , , 
+289, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=65, , , , , , , , , 
+290, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=68, , , , , , , , , 
+291, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=96, , , , , , , , , 
+292, , ,https://nulms.namal.edu.pk/course/view.php?id=309, , , , , , , , , 
+293, , ,https://nulms.namal.edu.pk/course/view.php?id=308, , , , , , , , , 
+294, , ,https://nulms.namal.edu.pk/course/view.php?id=307, , , , , , , , , 
+295, , ,https://nulms.namal.edu.pk/course/view.php?id=306, , , , , , , , , 
+296, , ,https://nulms.namal.edu.pk/course/view.php?id=305, , , , , , , , , 
+297, , ,https://nulms.namal.edu.pk/course/view.php?id=304, , , , , , , , , 
+298, , ,https://nulms.namal.edu.pk/course/view.php?id=303, , , , , , , , , 
+299, , ,https://nulms.namal.edu.pk/course/view.php?id=302, , , , , , , , , 
+300, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=97, , , , , , , , , 
+301, , ,https://nulms.namal.edu.pk/course/view.php?id=425, , , , , , , , , 
+302, , ,https://nulms.namal.edu.pk/course/view.php?id=377, , , , , , , , , 
+303, , ,https://nulms.namal.edu.pk/course/view.php?id=376, , , , , , , , , 
+304, , ,https://nulms.namal.edu.pk/course/view.php?id=375, , , , , , , , , 
+305, , ,https://nulms.namal.edu.pk/course/view.php?id=374, , , , , , , , , 
+306, , ,https://nulms.namal.edu.pk/course/view.php?id=373, , , , , , , , , 
+307, , ,https://nulms.namal.edu.pk/course/view.php?id=372, , , , , , , , , 
+308, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=69, , , , , , , , , 
+309, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=98, , , , , , , , , 
+310, , ,https://nulms.namal.edu.pk/course/view.php?id=263, , , , , , , , , 
+311, , ,https://nulms.namal.edu.pk/course/view.php?id=262, , , , , , , , , 
+312, , ,https://nulms.namal.edu.pk/course/view.php?id=261, , , , , , , , , 
+313, , ,https://nulms.namal.edu.pk/course/view.php?id=260, , , , , , , , , 
+314, , ,https://nulms.namal.edu.pk/course/view.php?id=259, , , , , , , , , 
+315, , ,https://nulms.namal.edu.pk/course/view.php?id=258, , , , , , , , , 
+316, , ,https://nulms.namal.edu.pk/course/view.php?id=257, , , , , , , , , 
+317, , ,https://nulms.namal.edu.pk/course/view.php?id=256, , , , , , , , , 
+318, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=99, , , , , , , , , 
+319, , ,https://nulms.namal.edu.pk/course/view.php?id=378, , , , , , , , , 
+320, , ,https://nulms.namal.edu.pk/course/view.php?id=383, , , , , , , , , 
+321, , ,https://nulms.namal.edu.pk/course/view.php?id=379, , , , , , , , , 
+322, , ,https://nulms.namal.edu.pk/course/view.php?id=380, , , , , , , , , 
+323, , ,https://nulms.namal.edu.pk/course/view.php?id=384, , , , , , , , , 
+324, , ,https://nulms.namal.edu.pk/course/view.php?id=381, , , , , , , , , 
+325, , ,https://nulms.namal.edu.pk/course/view.php?id=385, , , , , , , , , 
+326, , ,https://nulms.namal.edu.pk/course/view.php?id=382, , , , , , , , , 
+327, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=70, , , , , , , , , 
+328, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=100, , , , , , , , , 
+329, , ,https://nulms.namal.edu.pk/course/view.php?id=285, , , , , , , , , 
+330, , ,https://nulms.namal.edu.pk/course/view.php?id=284, , , , , , , , , 
+331, , ,https://nulms.namal.edu.pk/course/view.php?id=283, , , , , , , , , 
+332, , ,https://nulms.namal.edu.pk/course/view.php?id=282, , , , , , , , , 
+333, , ,https://nulms.namal.edu.pk/course/view.php?id=281, , , , , , , , , 
+334, , ,https://nulms.namal.edu.pk/course/view.php?id=280, , , , , , , , , 
+335, , ,https://nulms.namal.edu.pk/course/view.php?id=279, , , , , , , , , 
+336, , ,https://nulms.namal.edu.pk/course/view.php?id=278, , , , , , , , , 
+337, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=101, , , , , , , , , 
+338, , ,https://nulms.namal.edu.pk/course/view.php?id=386, , , , , , , , , 
+339, , ,https://nulms.namal.edu.pk/course/view.php?id=387, , , , , , , , , 
+340, , ,https://nulms.namal.edu.pk/course/view.php?id=388, , , , , , , , , 
+341, , ,https://nulms.namal.edu.pk/course/view.php?id=389, , , , , , , , , 
+342, , ,https://nulms.namal.edu.pk/course/view.php?id=390, , , , , , , , , 
+343, , ,https://nulms.namal.edu.pk/course/view.php?id=391, , , , , , , , , 
+344, , ,https://nulms.namal.edu.pk/course/view.php?id=392, , , , , , , , , 
+345, , ,https://nulms.namal.edu.pk/course/view.php?id=393, , , , , , , , , 
+346, , ,https://nulms.namal.edu.pk/course/view.php?id=394, , , , , , , , , 
+347, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=71, , , , , , , , , 
+348, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=102, , , , , , , , , 
+349, , ,https://nulms.namal.edu.pk/course/view.php?id=329, , , , , , , , , 
+350, , ,https://nulms.namal.edu.pk/course/view.php?id=328, , , , , , , , , 
+351, , ,https://nulms.namal.edu.pk/course/view.php?id=327, , , , , , , , , 
+352, , ,https://nulms.namal.edu.pk/course/view.php?id=326, , , , , , , , , 
+353, , ,https://nulms.namal.edu.pk/course/view.php?id=325, , , , , , , , , 
+354, , ,https://nulms.namal.edu.pk/course/view.php?id=324, , , , , , , , , 
+355, , ,https://nulms.namal.edu.pk/course/view.php?id=323, , , , , , , , , 
+356, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=103, , , , , , , , , 
+357, , ,https://nulms.namal.edu.pk/course/view.php?id=432, , , , , , , , , 
+358, , ,https://nulms.namal.edu.pk/course/view.php?id=396, , , , , , , , , 
+359, , ,https://nulms.namal.edu.pk/course/view.php?id=399, , , , , , , , , 
+360, , ,https://nulms.namal.edu.pk/course/view.php?id=397, , , , , , , , , 
+361, , ,https://nulms.namal.edu.pk/course/info.php?id=397, , , , , , , , , 
+362, , ,https://nulms.namal.edu.pk/course/view.php?id=398, , , , , , , , , 
+363, , ,https://nulms.namal.edu.pk/course/view.php?id=400, , , , , , , , , 
+364, , ,https://nulms.namal.edu.pk/course/view.php?id=401, , , , , , , , , 
+365, , ,https://nulms.namal.edu.pk/course/view.php?id=429, , , , , , , , , 
+366, , ,https://nulms.namal.edu.pk/course/view.php?id=430, , , , , , , , , 
+367, , ,https://nulms.namal.edu.pk/course/view.php?id=402, , , , , , , , , 
+368, , ,https://nulms.namal.edu.pk/course/view.php?id=395, , , , , , , , , 
+369, , ,https://nulms.namal.edu.pk/course/view.php?id=331, , , , , , , , , 
+370, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=67, , , , , , , , , 
+371, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=76, , , , , , , , , 
+372, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=80, , , , , , , , , 
+373, , ,https://nulms.namal.edu.pk/course/view.php?id=317, , , , , , , , , 
+374, , ,https://nulms.namal.edu.pk/course/view.php?id=316, , , , , , , , , 
+375, , ,https://nulms.namal.edu.pk/course/view.php?id=315, , , , , , , , , 
+376, , ,https://nulms.namal.edu.pk/course/view.php?id=313, , , , , , , , , 
+377, , ,https://nulms.namal.edu.pk/course/view.php?id=312, , , , , , , , , 
+378, , ,https://nulms.namal.edu.pk/course/view.php?id=311, , , , , , , , , 
+379, , ,https://nulms.namal.edu.pk/course/view.php?id=310, , , , , , , , , 
+380, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=81, , , , , , , , , 
+381, , ,https://nulms.namal.edu.pk/course/view.php?id=403, , , , , , , , , 
+382, , ,https://nulms.namal.edu.pk/course/view.php?id=404, , , , , , , , , 
+383, , ,https://nulms.namal.edu.pk/course/view.php?id=405, , , , , , , , , 
+384, , ,https://nulms.namal.edu.pk/course/view.php?id=406, , , , , , , , , 
+385, , ,https://nulms.namal.edu.pk/course/view.php?id=407, , , , , , , , , 
+386, , ,https://nulms.namal.edu.pk/course/view.php?id=408, , , , , , , , , 
+387, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=77, , , , , , , , , 
+388, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=82, , , , , , , , , 
+389, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=83, , , , , , , , , 
+390, , ,https://nulms.namal.edu.pk/course/view.php?id=409, , , , , , , , , 
+391, , ,https://nulms.namal.edu.pk/course/view.php?id=410, , , , , , , , , 
+392, , ,https://nulms.namal.edu.pk/course/view.php?id=411, , , , , , , , , 
+393, , ,https://nulms.namal.edu.pk/course/view.php?id=412, , , , , , , , , 
+394, , ,https://nulms.namal.edu.pk/course/view.php?id=413, , , , , , , , , 
+395, , ,https://nulms.namal.edu.pk/course/view.php?id=414, , , , , , , , , 
+396, , ,https://nulms.namal.edu.pk/course/view.php?id=269, , , , , , , , , 
+397, , ,https://nulms.namal.edu.pk/course/view.php?id=268, , , , , , , , , 
+398, , ,https://nulms.namal.edu.pk/course/view.php?id=267, , , , , , , , , 
+399, , ,https://nulms.namal.edu.pk/course/view.php?id=266, , , , , , , , , 
+400, , ,https://nulms.namal.edu.pk/course/view.php?id=265, , , , , , , , , 
+401, , ,https://nulms.namal.edu.pk/course/view.php?id=264, , , , , , , , , 
+402, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=78, , , , , , , , , 
+403, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=84, , , , , , , , , 
+404, , ,https://nulms.namal.edu.pk/course/view.php?id=291, , , , , , , , , 
+405, , ,https://nulms.namal.edu.pk/course/view.php?id=290, , , , , , , , , 
+406, , ,https://nulms.namal.edu.pk/course/view.php?id=289, , , , , , , , , 
+407, , ,https://nulms.namal.edu.pk/course/view.php?id=288, , , , , , , , , 
+408, , ,https://nulms.namal.edu.pk/course/view.php?id=287, , , , , , , , , 
+409, , ,https://nulms.namal.edu.pk/course/view.php?id=286, , , , , , , , , 
+410, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=85, , , , , , , , , 
+411, , ,https://nulms.namal.edu.pk/course/view.php?id=420, , , , , , , , , 
+412, , ,https://nulms.namal.edu.pk/course/view.php?id=421, , , , , , , , , 
+413, , ,https://nulms.namal.edu.pk/course/view.php?id=422, , , , , , , , , 
+414, , ,https://nulms.namal.edu.pk/course/view.php?id=423, , , , , , , , , 
+415, , ,https://nulms.namal.edu.pk/course/view.php?id=424, , , , , , , , , 
+416, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=79, , , , , , , , , 
+417, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=86, , , , , , , , , 
+418, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=87, , , , , , , , , 
+419, , ,https://nulms.namal.edu.pk/course/view.php?id=419, , , , , , , , , 
+420, , ,https://nulms.namal.edu.pk/course/view.php?id=418, , , , , , , , , 
+421, , ,https://nulms.namal.edu.pk/course/view.php?id=416, , , , , , , , , 
+422, , ,https://nulms.namal.edu.pk/course/view.php?id=415, , , , , , , , , 
+423, , ,https://nulms.namal.edu.pk/course/view.php?id=417, , , , , , , , , 
+424, , ,https://nulms.namal.edu.pk/course/view.php?id=334, , , , , , , , , 
+425, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=24, , , , , , , , , 
+426, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=27, , , , , , , , , 
+427, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=26, , , , , , , , , 
+428, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=35, , , , , , , , , 
+429, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=38, , , , , , , , , 
+430, , ,https://nulms.namal.edu.pk/course/view.php?id=164, , , , , , , , , 
+431, , ,https://nulms.namal.edu.pk/course/view.php?id=163, , , , , , , , , 
+432, , ,https://nulms.namal.edu.pk/course/view.php?id=160, , , , , , , , , 
+433, , ,https://nulms.namal.edu.pk/course/info.php?id=160, , , , , , , , , 
+434, , ,https://nulms.namal.edu.pk/course/view.php?id=159, , , , , , , , , 
+435, , ,https://nulms.namal.edu.pk/course/info.php?id=159, , , , , , , , , 
+436, , ,https://nulms.namal.edu.pk/course/view.php?id=158, , , , , , , , , 
+437, , ,https://nulms.namal.edu.pk/course/info.php?id=158, , , , , , , , , 
+438, , ,https://nulms.namal.edu.pk/course/view.php?id=157, , , , , , , , , 
+439, , ,https://nulms.namal.edu.pk/course/info.php?id=157, , , , , , , , , 
+440, , ,https://nulms.namal.edu.pk/course/view.php?id=142, , , , , , , , , 
+441, , ,https://nulms.namal.edu.pk/course/info.php?id=142, , , , , , , , , 
+442, , ,https://nulms.namal.edu.pk/course/view.php?id=141, , , , , , , , , 
+443, , ,https://nulms.namal.edu.pk/course/info.php?id=141, , , , , , , , , 
+444, , ,https://nulms.namal.edu.pk/course/view.php?id=140, , , , , , , , , 
+445, , ,https://nulms.namal.edu.pk/course/info.php?id=140, , , , , , , , , 
+446, , ,https://nulms.namal.edu.pk/course/view.php?id=139, , , , , , , , , 
+447, , ,https://nulms.namal.edu.pk/course/info.php?id=139, , , , , , , , , 
+448, , ,https://nulms.namal.edu.pk/course/view.php?id=137, , , , , , , , , 
+449, , ,https://nulms.namal.edu.pk/course/info.php?id=137, , , , , , , , , 
+450, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=39, , , , , , , , , 
+451, , ,https://nulms.namal.edu.pk/course/view.php?id=237, , , , , , , , , 
+452, , ,https://nulms.namal.edu.pk/course/view.php?id=236, , , , , , , , , 
+453, , ,https://nulms.namal.edu.pk/course/view.php?id=235, , , , , , , , , 
+454, , ,https://nulms.namal.edu.pk/course/view.php?id=234, , , , , , , , , 
+455, , ,https://nulms.namal.edu.pk/course/info.php?id=234, , , , , , , , , 
+456, , ,https://nulms.namal.edu.pk/course/view.php?id=233, , , , , , , , , 
+457, , ,https://nulms.namal.edu.pk/course/view.php?id=232, , , , , , , , , 
+458, , ,https://nulms.namal.edu.pk/course/info.php?id=232, , , , , , , , , 
+459, , ,https://nulms.namal.edu.pk/course/view.php?id=231, , , , , , , , , 
+460, , ,https://nulms.namal.edu.pk/course/info.php?id=231, , , , , , , , , 
+461, , ,https://nulms.namal.edu.pk/course/view.php?id=230, , , , , , , , , 
+462, , ,https://nulms.namal.edu.pk/course/info.php?id=230, , , , , , , , , 
+463, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=36, , , , , , , , , 
+464, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=40, , , , , , , , , 
+465, , ,https://nulms.namal.edu.pk/course/view.php?id=101, , , , , , , , , 
+466, , ,https://nulms.namal.edu.pk/course/info.php?id=101, , , , , , , , , 
+467, , ,https://nulms.namal.edu.pk/course/view.php?id=77, , , , , , , , , 
+468, , ,https://nulms.namal.edu.pk/course/info.php?id=77, , , , , , , , , 
+469, , ,https://nulms.namal.edu.pk/course/view.php?id=76, , , , , , , , , 
+470, , ,https://nulms.namal.edu.pk/course/info.php?id=76, , , , , , , , , 
+471, , ,https://nulms.namal.edu.pk/course/view.php?id=75, , , , , , , , , 
+472, , ,https://nulms.namal.edu.pk/course/info.php?id=75, , , , , , , , , 
+473, , ,https://nulms.namal.edu.pk/course/view.php?id=74, , , , , , , , , 
+474, , ,https://nulms.namal.edu.pk/course/info.php?id=74, , , , , , , , , 
+475, , ,https://nulms.namal.edu.pk/course/view.php?id=73, , , , , , , , , 
+476, , ,https://nulms.namal.edu.pk/course/info.php?id=73, , , , , , , , , 
+477, , ,https://nulms.namal.edu.pk/course/view.php?id=72, , , , , , , , , 
+478, , ,https://nulms.namal.edu.pk/course/info.php?id=72, , , , , , , , , 
+479, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=41, , , , , , , , , 
+480, , ,https://nulms.namal.edu.pk/course/view.php?id=182, , , , , , , , , 
+481, , ,https://nulms.namal.edu.pk/course/view.php?id=181, , , , , , , , , 
+482, , ,https://nulms.namal.edu.pk/course/view.php?id=180, , , , , , , , , 
+483, , ,https://nulms.namal.edu.pk/course/info.php?id=180, , , , , , , , , 
+484, , ,https://nulms.namal.edu.pk/course/view.php?id=179, , , , , , , , , 
+485, , ,https://nulms.namal.edu.pk/course/info.php?id=179, , , , , , , , , 
+486, , ,https://nulms.namal.edu.pk/course/view.php?id=178, , , , , , , , , 
+487, , ,https://nulms.namal.edu.pk/course/view.php?id=177, , , , , , , , , 
+488, , ,https://nulms.namal.edu.pk/course/view.php?id=176, , , , , , , , , 
+489, , ,https://nulms.namal.edu.pk/course/view.php?id=165, , , , , , , , , 
+490, , ,https://nulms.namal.edu.pk/course/view.php?id=166, , , , , , , , , 
+491, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=37, , , , , , , , , 
+492, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=42, , , , , , , , , 
+493, , ,https://nulms.namal.edu.pk/course/view.php?id=92, , , , , , , , , 
+494, , ,https://nulms.namal.edu.pk/course/info.php?id=92, , , , , , , , , 
+495, , ,https://nulms.namal.edu.pk/course/view.php?id=91, , , , , , , , , 
+496, , ,https://nulms.namal.edu.pk/course/info.php?id=91, , , , , , , , , 
+497, , ,https://nulms.namal.edu.pk/course/view.php?id=112, , , , , , , , , 
+498, , ,https://nulms.namal.edu.pk/course/info.php?id=112, , , , , , , , , 
+499, , ,https://nulms.namal.edu.pk/course/view.php?id=89, , , , , , , , , 
+500, , ,https://nulms.namal.edu.pk/course/info.php?id=89, , , , , , , , , 
+501, , ,https://nulms.namal.edu.pk/course/view.php?id=90, , , , , , , , , 
+502, , ,https://nulms.namal.edu.pk/course/info.php?id=90, , , , , , , , , 
+503, , ,https://nulms.namal.edu.pk/course/view.php?id=88, , , , , , , , , 
+504, , ,https://nulms.namal.edu.pk/course/info.php?id=88, , , , , , , , , 
+505, , ,https://nulms.namal.edu.pk/course/view.php?id=87, , , , , , , , , 
+506, , ,https://nulms.namal.edu.pk/course/info.php?id=87, , , , , , , , , 
+507, , ,https://nulms.namal.edu.pk/course/view.php?id=85, , , , , , , , , 
+508, , ,https://nulms.namal.edu.pk/course/info.php?id=85, , , , , , , , , 
+509, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=43, , , , , , , , , 
+510, , ,https://nulms.namal.edu.pk/course/view.php?id=208, , , , , , , , , 
+511, , ,https://nulms.namal.edu.pk/course/view.php?id=207, , , , , , , , , 
+512, , ,https://nulms.namal.edu.pk/course/view.php?id=206, , , , , , , , , 
+513, , ,https://nulms.namal.edu.pk/course/view.php?id=205, , , , , , , , , 
+514, , ,https://nulms.namal.edu.pk/course/info.php?id=205, , , , , , , , , 
+515, , ,https://nulms.namal.edu.pk/course/view.php?id=204, , , , , , , , , 
+516, , ,https://nulms.namal.edu.pk/course/info.php?id=204, , , , , , , , , 
+517, , ,https://nulms.namal.edu.pk/course/view.php?id=203, , , , , , , , , 
+518, , ,https://nulms.namal.edu.pk/course/view.php?id=202, , , , , , , , , 
+519, , ,https://nulms.namal.edu.pk/course/view.php?id=201, , , , , , , , , 
+520, , ,https://nulms.namal.edu.pk/course/view.php?id=200, , , , , , , , , 
+521, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=49, , , , , , , , , 
+522, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=54, , , , , , , , , 
+523, , ,https://nulms.namal.edu.pk/course/view.php?id=123, , , , , , , , , 
+524, , ,https://nulms.namal.edu.pk/course/info.php?id=123, , , , , , , , , 
+525, , ,https://nulms.namal.edu.pk/course/view.php?id=122, , , , , , , , , 
+526, , ,https://nulms.namal.edu.pk/course/info.php?id=122, , , , , , , , , 
+527, , ,https://nulms.namal.edu.pk/course/view.php?id=121, , , , , , , , , 
+528, , ,https://nulms.namal.edu.pk/course/info.php?id=121, , , , , , , , , 
+529, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=55, , , , , , , , , 
+530, , ,https://nulms.namal.edu.pk/course/view.php?id=216, , , , , , , , , 
+531, , ,https://nulms.namal.edu.pk/course/view.php?id=215, , , , , , , , , 
+532, , ,https://nulms.namal.edu.pk/course/view.php?id=209, , , , , , , , , 
+533, , ,https://nulms.namal.edu.pk/course/info.php?id=209, , , , , , , , , 
+534, , ,https://nulms.namal.edu.pk/course/view.php?id=113, , , , , , , , , 
+535, , ,https://nulms.namal.edu.pk/course/info.php?id=113, , , , , , , , , 
+536, , ,https://nulms.namal.edu.pk/course/view.php?id=70, , , , , , , , , 
+537, , ,https://nulms.namal.edu.pk/course/info.php?id=70, , , , , , , , , 
+538, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=25, , , , , , , , , 
+539, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=28, , , , , , , , , 
+540, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=56, , , , , , , , , 
+541, , ,https://nulms.namal.edu.pk/course/view.php?id=161, , , , , , , , , 
+542, , ,https://nulms.namal.edu.pk/course/view.php?id=135, , , , , , , , , 
+543, , ,https://nulms.namal.edu.pk/course/info.php?id=135, , , , , , , , , 
+544, , ,https://nulms.namal.edu.pk/course/view.php?id=134, , , , , , , , , 
+545, , ,https://nulms.namal.edu.pk/course/info.php?id=134, , , , , , , , , 
+546, , ,https://nulms.namal.edu.pk/course/view.php?id=133, , , , , , , , , 
+547, , ,https://nulms.namal.edu.pk/course/info.php?id=133, , , , , , , , , 
+548, , ,https://nulms.namal.edu.pk/course/view.php?id=132, , , , , , , , , 
+549, , ,https://nulms.namal.edu.pk/course/view.php?id=131, , , , , , , , , 
+550, , ,https://nulms.namal.edu.pk/course/view.php?id=130, , , , , , , , , 
+551, , ,https://nulms.namal.edu.pk/course/view.php?id=129, , , , , , , , , 
+552, , ,https://nulms.namal.edu.pk/course/info.php?id=129, , , , , , , , , 
+553, , ,https://nulms.namal.edu.pk/course/view.php?id=128, , , , , , , , , 
+554, , ,https://nulms.namal.edu.pk/course/info.php?id=128, , , , , , , , , 
+555, , ,https://nulms.namal.edu.pk/course/view.php?id=126, , , , , , , , , 
+556, , ,https://nulms.namal.edu.pk/course/info.php?id=126, , , , , , , , , 
+557, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=57, , , , , , , , , 
+558, , ,https://nulms.namal.edu.pk/course/view.php?id=221, , , , , , , , , 
+559, , ,https://nulms.namal.edu.pk/course/view.php?id=222, , , , , , , , , 
+560, , ,https://nulms.namal.edu.pk/course/info.php?id=222, , , , , , , , , 
+561, , ,https://nulms.namal.edu.pk/course/view.php?id=223, , , , , , , , , 
+562, , ,https://nulms.namal.edu.pk/course/info.php?id=223, , , , , , , , , 
+563, , ,https://nulms.namal.edu.pk/course/view.php?id=224, , , , , , , , , 
+564, , ,https://nulms.namal.edu.pk/course/info.php?id=224, , , , , , , , , 
+565, , ,https://nulms.namal.edu.pk/course/view.php?id=225, , , , , , , , , 
+566, , ,https://nulms.namal.edu.pk/course/view.php?id=226, , , , , , , , , 
+567, , ,https://nulms.namal.edu.pk/course/view.php?id=227, , , , , , , , , 
+568, , ,https://nulms.namal.edu.pk/course/view.php?id=228, , , , , , , , , 
+569, , ,https://nulms.namal.edu.pk/course/view.php?id=229, , , , , , , , , 
+570, , ,https://nulms.namal.edu.pk/course/info.php?id=229, , , , , , , , , 
+571, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=29, , , , , , , , , 
+572, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=31, , , , , , , , , 
+573, , ,https://nulms.namal.edu.pk/course/view.php?id=102, , , , , , , , , 
+574, , ,https://nulms.namal.edu.pk/course/info.php?id=102, , , , , , , , , 
+575, , ,https://nulms.namal.edu.pk/course/view.php?id=84, , , , , , , , , 
+576, , ,https://nulms.namal.edu.pk/course/info.php?id=84, , , , , , , , , 
+577, , ,https://nulms.namal.edu.pk/course/view.php?id=81, , , , , , , , , 
+578, , ,https://nulms.namal.edu.pk/course/info.php?id=81, , , , , , , , , 
+579, , ,https://nulms.namal.edu.pk/course/view.php?id=82, , , , , , , , , 
+580, , ,https://nulms.namal.edu.pk/course/info.php?id=82, , , , , , , , , 
+581, , ,https://nulms.namal.edu.pk/course/view.php?id=83, , , , , , , , , 
+582, , ,https://nulms.namal.edu.pk/course/info.php?id=83, , , , , , , , , 
+583, , ,https://nulms.namal.edu.pk/course/view.php?id=79, , , , , , , , , 
+584, , ,https://nulms.namal.edu.pk/course/info.php?id=79, , , , , , , , , 
+585, , ,https://nulms.namal.edu.pk/course/view.php?id=80, , , , , , , , , 
+586, , ,https://nulms.namal.edu.pk/course/info.php?id=80, , , , , , , , , 
+587, , ,https://nulms.namal.edu.pk/course/view.php?id=71, , , , , , , , , 
+588, , ,https://nulms.namal.edu.pk/course/info.php?id=71, , , , , , , , , 
+589, , ,https://nulms.namal.edu.pk/course/view.php?id=78, , , , , , , , , 
+590, , ,https://nulms.namal.edu.pk/course/info.php?id=78, , , , , , , , , 
+591, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=32, , , , , , , , , 
+592, , ,https://nulms.namal.edu.pk/course/view.php?id=175, , , , , , , , , 
+593, , ,https://nulms.namal.edu.pk/course/view.php?id=174, , , , , , , , , 
+594, , ,https://nulms.namal.edu.pk/course/view.php?id=173, , , , , , , , , 
+595, , ,https://nulms.namal.edu.pk/course/view.php?id=172, , , , , , , , , 
+596, , ,https://nulms.namal.edu.pk/course/view.php?id=171, , , , , , , , , 
+597, , ,https://nulms.namal.edu.pk/course/view.php?id=170, , , , , , , , , 
+598, , ,https://nulms.namal.edu.pk/course/view.php?id=168, , , , , , , , , 
+599, , ,https://nulms.namal.edu.pk/course/view.php?id=167, , , , , , , , , 
+600, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=30, , , , , , , , , 
+601, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=33, , , , , , , , , 
+602, , ,https://nulms.namal.edu.pk/course/view.php?id=99, , , , , , , , , 
+603, , ,https://nulms.namal.edu.pk/course/info.php?id=99, , , , , , , , , 
+604, , ,https://nulms.namal.edu.pk/course/view.php?id=100, , , , , , , , , 
+605, , ,https://nulms.namal.edu.pk/course/info.php?id=100, , , , , , , , , 
+606, , ,https://nulms.namal.edu.pk/course/view.php?id=98, , , , , , , , , 
+607, , ,https://nulms.namal.edu.pk/course/info.php?id=98, , , , , , , , , 
+608, , ,https://nulms.namal.edu.pk/course/view.php?id=96, , , , , , , , , 
+609, , ,https://nulms.namal.edu.pk/course/view.php?id=97, , , , , , , , , 
+610, , ,https://nulms.namal.edu.pk/course/view.php?id=94, , , , , , , , , 
+611, , ,https://nulms.namal.edu.pk/course/info.php?id=94, , , , , , , , , 
+612, , ,https://nulms.namal.edu.pk/course/view.php?id=95, , , , , , , , , 
+613, , ,https://nulms.namal.edu.pk/course/info.php?id=95, , , , , , , , , 
+614, , ,https://nulms.namal.edu.pk/course/view.php?id=93, , , , , , , , , 
+615, , ,https://nulms.namal.edu.pk/course/info.php?id=93, , , , , , , , , 
+616, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=34, , , , , , , , , 
+617, , ,https://nulms.namal.edu.pk/course/view.php?id=199, , , , , , , , , 
+618, , ,https://nulms.namal.edu.pk/course/view.php?id=198, , , , , , , , , 
+619, , ,https://nulms.namal.edu.pk/course/view.php?id=197, , , , , , , , , 
+620, , ,https://nulms.namal.edu.pk/course/view.php?id=196, , , , , , , , , 
+621, , ,https://nulms.namal.edu.pk/course/view.php?id=195, , , , , , , , , 
+622, , ,https://nulms.namal.edu.pk/course/view.php?id=194, , , , , , , , , 
+623, , ,https://nulms.namal.edu.pk/course/view.php?id=193, , , , , , , , , 
+624, , ,https://nulms.namal.edu.pk/course/view.php?id=192, , , , , , , , , 
+625, , ,https://nulms.namal.edu.pk/course/view.php?id=191, , , , , , , , , 
+626, , ,https://nulms.namal.edu.pk/course/view.php?id=190, , , , , , , , , 
+627, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=51, , , , , , , , , 
+628, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=52, , , , , , , , , 
+629, , ,https://nulms.namal.edu.pk/course/view.php?id=125, , , , , , , , , 
+630, , ,https://nulms.namal.edu.pk/course/info.php?id=125, , , , , , , , , 
+631, , ,https://nulms.namal.edu.pk/course/view.php?id=118, , , , , , , , , 
+632, , ,https://nulms.namal.edu.pk/course/info.php?id=118, , , , , , , , , 
+633, , ,https://nulms.namal.edu.pk/course/view.php?id=120, , , , , , , , , 
+634, , ,https://nulms.namal.edu.pk/course/info.php?id=120, , , , , , , , , 
+635, , ,https://nulms.namal.edu.pk/course/view.php?id=115, , , , , , , , , 
+636, , ,https://nulms.namal.edu.pk/course/info.php?id=115, , , , , , , , , 
+637, , ,https://nulms.namal.edu.pk/course/view.php?id=124, , , , , , , , , 
+638, , ,https://nulms.namal.edu.pk/course/info.php?id=124, , , , , , , , , 
+639, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=53, , , , , , , , , 
+640, , ,https://nulms.namal.edu.pk/course/view.php?id=214, , , , , , , , , 
+641, , ,https://nulms.namal.edu.pk/course/view.php?id=213, , , , , , , , , 
+642, , ,https://nulms.namal.edu.pk/course/view.php?id=212, , , , , , , , , 
+643, , ,https://nulms.namal.edu.pk/course/view.php?id=211, , , , , , , , , 
+644, , ,https://nulms.namal.edu.pk/course/view.php?id=210, , , , , , , , , 
+645, , ,https://nulms.namal.edu.pk/course/info.php?id=210, , , , , , , , , 
+646, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=1, , , , , , , , , 
+647, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=3, , , , , , , , , 
+648, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=11, , , , , , , , , 
+649, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=21, , , , , , , , , 
+650, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=22, , , , , , , , , 
+651, , ,https://nulms.namal.edu.pk/course/view.php?id=60, , , , , , , , , 
+652, , ,https://nulms.namal.edu.pk/course/info.php?id=60, , , , , , , , , 
+653, , ,https://nulms.namal.edu.pk/course/view.php?id=61, , , , , , , , , 
+654, , ,https://nulms.namal.edu.pk/course/info.php?id=61, , , , , , , , , 
+655, , ,https://nulms.namal.edu.pk/course/view.php?id=59, , , , , , , , , 
+656, , ,https://nulms.namal.edu.pk/course/info.php?id=59, , , , , , , , , 
+657, , ,https://nulms.namal.edu.pk/course/view.php?id=64, , , , , , , , , 
+658, , ,https://nulms.namal.edu.pk/course/view.php?id=57, , , , , , , , , 
+659, , ,https://nulms.namal.edu.pk/course/info.php?id=57, , , , , , , , , 
+660, , ,https://nulms.namal.edu.pk/course/view.php?id=58, , , , , , , , , 
+661, , ,https://nulms.namal.edu.pk/course/info.php?id=58, , , , , , , , , 
+662, , ,https://nulms.namal.edu.pk/course/view.php?id=63, , , , , , , , , 
+663, , ,https://nulms.namal.edu.pk/course/info.php?id=63, , , , , , , , , 
+664, , ,https://nulms.namal.edu.pk/course/view.php?id=56, , , , , , , , , 
+665, , ,https://nulms.namal.edu.pk/course/view.php?id=55, , , , , , , , , 
+666, , ,https://nulms.namal.edu.pk/course/info.php?id=55, , , , , , , , , 
+667, , ,https://nulms.namal.edu.pk/course/view.php?id=54, , , , , , , , , 
+668, , ,https://nulms.namal.edu.pk/course/info.php?id=54, , , , , , , , , 
+669, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=12, , , , , , , , , 
+670, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=13, , , , , , , , , 
+671, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=14, , , , , , , , , 
+672, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=4, , , , , , , , , 
+673, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=9, , , , , , , , , 
+674, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=15, , , , , , , , , 
+675, , ,https://nulms.namal.edu.pk/course/view.php?id=38, , , , , , , , , 
+676, , ,https://nulms.namal.edu.pk/course/view.php?id=37, , , , , , , , , 
+677, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=61, , , , , , , , , 
+678, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=109, , , , , , , , , 
+679, , ,https://nulms.namal.edu.pk/course/view.php?id=434, , , , , , , , , 
+680, , ,https://nulms.namal.edu.pk/course/view.php?id=428, , , , , , , , , 
+681, , ,https://nulms.namal.edu.pk/course/view.php?id=162, , , , , , , , , 
+682, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=48, , , , , , , , , 
+683, , ,https://nulms.namal.edu.pk/course/view.php?id=111, , , , , , , , , 
+684, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=50, , , , , , , , , 
+685, , ,https://nulms.namal.edu.pk/course/view.php?id=436, , , , , , , , , 
+686, , ,https://nulms.namal.edu.pk/course/view.php?id=335, , , , , , , , , 
+687, , ,https://nulms.namal.edu.pk/course/view.php?id=114, , , , , , , , , 
+688, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=62, , , , , , , , , 
+689, , ,https://nulms.namal.edu.pk/course/view.php?id=245, , , , , , , , , 
+690, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=104, , , , , , , , , 
+691, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=105, , , , , , , , , 
+692, , ,https://nulms.namal.edu.pk/course/view.php?id=336, , , , , , , , , 
+693, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=106, , , , , , , , , 
+694, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=107, , , , , , , , , 
+695, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=108, , , , , , , , , 
+696, , ,https://nulms.namal.edu.pk/course/index.php?categoryid=110, , , , , , , , , 
+697, , ,https://nulms.namal.edu.pk/course/view.php?id=439, , , , , , , , , 
+698, , ,https://nulms.namal.edu.pk/course/view.php?id=437, , , , , , , , , 
+699, , ,https://nulms.namal.edu.pk/, , , , , , , , , 
+700, , ,https://nulms.namal.edu.pk/login/index.php, , , , , , , , , 
+701, , ,http://moodle.org/, , , , , , , , , 
+702, , ,https://download.moodle.org/mobile?version=2018051701.08&lang=en&iosappid=633359593&androidappid=com.moodle.moodlemobile, , , , , , , , , 
