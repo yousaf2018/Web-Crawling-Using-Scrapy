@@ -1,0 +1,322 @@
+,Links Tokens,Paragraph Tokens,Heading1 Tokens,Heading2 Tokens,Heading3 Tokens,Heading4 Tokens,Heading5 Tokens,UnorderList Tokens,TableData Tokens
+0,cgi-bin,Paragraph,Heading1,Log,Mon,Heading4,Heading5,Cart,Cart
+1,koha,14,Shaping,in,to,Orlando,(,Lists,Lists
+2,opac-main.pl,Mar,those,to,Sat,Fundraising,Chief,Public,Public
+3,#,23,Who,your,Juma,Namal,Medical,lists,lists
+4,#,Feb,Shape,account,Break,Convocation,Officer,New,New
+5,cgi-bin,16,the,About,Heading3,",",",",books,books
+,Links Tokens,Paragraph Tokens,Heading1 Tokens,Heading2 Tokens,Heading3 Tokens,Heading4 Tokens,Heading5 Tokens,UnorderList Tokens,TableData Tokens
+0,cgi-bin,Paragraph,Heading1,Log,Mon,Heading4,Heading5,Cart,Cart
+1,koha,14,Shaping,in,to,Orlando,(,Lists,Lists
+2,opac-main.pl,Mar,those,to,Sat,Fundraising,Chief,Public,Public
+3,#,23,Who,your,Juma,Namal,Medical,lists,lists
+4,#,Feb,Shape,account,Break,Convocation,Officer,New,New
+5,cgi-bin,16,the,About,Heading3,",",",",books,books
+6,koha,Jan,Future,Library, ,Namal,PTV,New,New
+7,opac-shelves.pl,By,News,Information, ,Graduation,),Arrivals_CS,Arrivals_CS
+8,?,means,events,service, ,Ni,(,Urdu,Urdu
+9,op=list,of,become,Quick, ,NEWS,Donor,Books,Books
+10,&,technological,a,Links, ,FEED,Visiting,New,New
+11,category=2,skills,part,Help, ,Students,from,Arrivals,Arrivals
+12,cgi-bin,",",of,Heading2, ,on,USA,management,management
+13,koha,Nisar,The, , ,Scholarship,),Donation,Donation
+14,opac-shelves.pl,Aziz,namal, , ,Student-to-Faculty,(,Tayyab,Tayyab
+15,?,Agri-Tech,family, , ,ratio,CEO,Mr,Mr
+16,op=view,Center,your, , ,PhD,",",Naeem,Naeem
+17,&,at,support, , ,Faculty,Care,'s,'s
+18,shelfnumber=37,Namal,has, , ,Members,Marketing,Donation,Donation
+19,&,Institute,made, , ,Acres,.,View,View
+20,sortfield=title,is,an, , ,of,),All,All
+21,cgi-bin,all,impact, , ,Land,(,Your,Your
+22,koha,set,video, , ,Dr.,Cricketer,lists,lists
+23,opac-shelves.pl,to,&, , ,Riaz,),Log,Log
+24,?,revolutionize,newsfeed, , ,Shahid, ,in,in
+25,op=view,the,Facts, , ,Sehar, ,to,to
+26,&,rural,corner, , ,Chaudhry, ,create,create
+27,shelfnumber=38,landscape,WHAT, , ,Shamim, ,your,your
+28,&,of,Friends, , ,Akhtar, ,own,own
+29,sortfield=title,Pakistan,of, , ,Waseem, ,lists,lists
+30,cgi-bin,through,namal, , ,Akram, ,Log,Log
+31,koha,two,Say, , ,Subscribe, ,in,in
+32,opac-shelves.pl,of, , , ,to, ,to,to
+33,?,its, , , ,our, ,your,your
+34,op=view,initiatives, , , ,newsletter, ,account,account
+35,&,;, , , ,Important, ,Search,Search
+36,shelfnumber=3,‘, , , ,Links, ,history,history
+37,&,Meri, , , ,contact, ,Clear,Clear
+38,sortfield=title,Fasal, , , ,us, ,Home,Home
+39,cgi-bin,’, , , , , ,Advanced,Advanced
+40,koha,., , , , , ,search,search
+41,opac-shelves.pl,Electrical, , , , , ,Browse,Browse
+42,?,engineers, , , , , ,by,by
+43,op=view,",", , , , , ,hierarchy,hierarchy
+44,&,Asif, , , , , ,Authority,Authority
+45,shelfnumber=2,Ahmed, , , , , ,search,search
+46,&,and, , , , , ,Tag,Tag
+47,sortfield=title,Muhammad, , , , , ,cloud,cloud
+48,cgi-bin,Iqbal, , , , , ,Most,Most
+49,koha,",", , , , , ,popular,popular
+50,opac-shelves.pl,have, , , , , ,Library,Library
+51,?,collectively, , , , , ,Library,Library
+52,op=view,developed, , , , , ,Collection,Collection
+53,&,a, , , , , ,Library,Library
+54,shelfnumber=7,solar, , , , , ,Timings,Timings
+55,&,powered, , , , , ,Library,Library
+56,sortfield=title,car, , , , , ,Policies,Policies
+57,cgi-bin,which, , , , , ,About,About
+58,koha,can, , , , , ,Library,Library
+59,opac-shelves.pl,go, , , , , ,Library,Library
+60,?,up, , , , , ,Map,Map
+61,op=view,to, , , , , ,Library,Library
+62,&,50, , , , , ,Staff,Staff
+63,shelfnumber=14,km, , , , , ,Membership,Membership
+64,&,per, , , , , ,Forms,Forms
+65,sortfield=title,hour, , , , , ,Ebook,Ebook
+66,cgi-bin,., , , , , ,Resources,Resources
+67,koha,Rahnumai, , , , , ,New,New
+68,opac-shelves.pl,",", , , , , ,Arrivals,Arrivals
+69,?,a, , , , , ,Magazines,Magazines
+70,op=view,social, , , , , ,&,&
+71,&,enterprise, , , , , ,Journals,Journals
+72,shelfnumber=28,movement, , , , , ,Other,Other
+73,&,is, , , , , ,Services,Services
+74,sortfield=title,all, , , , , ,News,News
+75,cgi-bin,set, , , , , ,Papers,Papers
+76,koha,to, , , , , ,&,&
+77,opac-shelves.pl,revolutionize, , , , , ,News,News
+78,?,Pakistan, , , , , ,HEC,HEC
+79,op=view,’, , , , , ,Digital,Digital
+80,&,s, , , , , ,Library,Library
+81,shelfnumber=15,educational, , , , , ,Namal,Namal
+82,&,system, , , , , ,Institute,Institute
+83,sortfield=title,., , , , , ,Online,Online
+84,cgi-bin,Atif, , , , , ,Journals,Journals
+85,koha,Rafiq, , , , , ,Article,Article
+86,opac-shelves.pl,graduated, , , , , ,Request,Request
+87,?,from, , , , , ,User,User
+88,op=list,Namal, , , , , ,Demo,Demo
+89,&,Institute, , , , , ,Contact,Contact
+90,category=2,in, , , , , ,Us,Us
+91,cgi-bin,2014, , , , , ,UnorderList,UnorderList
+92,koha,and, , , , , ,Home,Home
+93,opac-shelves.pl,even, , , , , ,About,About
+94,?,after, , , , , ,Overview,Overview
+95,op=list,so, , , , , ,Founder,Founder
+96,&,many, , , , , ,'s,'s
+97,category=1,years, , , , , ,Message,Message
+98,cgi-bin,he, , , , , ,Board,Board
+99,koha,still, , , , , ,Of,Of
+100,opac-shelves.pl,relishes, , , , , ,Governors,Governors
+101,?,his, , , , , ,Namal,Namal
+102,op=add_form,most, , , , , ,Institute,Institute
+103,cgi-bin,prized, , , , , ,Campaigns,Campaigns
+104,koha,moments, , , , , ,100,100
+105,opac-user.pl,at, , , , , ,Cities,Cities
+106,cgi-bin,his, , , , , ,Campaign,Campaign
+107,koha,alma, , , , , ,Knowledge,Knowledge
+108,opac-search-history.pl,mater, , , , , ,City,City
+109,cgi-bin,., , , , , ,Academic,Academic
+110,koha,:, , , , , ,Block-1,Block-1
+111,opac-search-history.pl,7-A, , , , , ,Events,Events
+112,?,Abu, , , , , ,Upcoming,Upcoming
+113,action=delete,Bakar, , , , , ,Events,Events
+114,cgi-bin,Block, , , , , ,Past,Past
+115,koha,-, , , , , ,Events,Events
+116,opac-main.pl,New, , , , , ,Gallery,Gallery
+117,cgi-bin,Garden, , , , , ,Contact,Contact
+118,koha,Town, , , , , ,FAQs,FAQs
+119,opac-search.pl,Lahore, , , , , ,Donate,Donate
+120,cgi-bin,",", , , , , ,Namal,Namal
+121,koha,Pakistan, , , , , ,Institute,Institute
+122,opac-browser.pl,:, , , , , ,100,100
+123,cgi-bin,+92, , , , , ,Cities,Cities
+124,koha,42, , , , , ,Campaign,Campaign
+125,opac-authorities-home.pl,35830707, , , , , ,Careers,Careers
+126,cgi-bin,:, , , , , ,www.namalknowledgecity.com,www.namalknowledgecity.com
+127,koha,+92, , , , , , , 
+128,opac-tags.pl,324, , , , , , , 
+129,cgi-bin,9911, , , , , , , 
+130,koha,917, , , , , , , 
+131,opac-topissues.pl,:, , , , , , , 
+132,cgi-bin,+92, , , , , , , 
+133,koha,42, , , , , , , 
+134,opac-library.pl,111, , , , , , , 
+135,cgi-bin,162, , , , , , , 
+136,koha,625, , , , , , , 
+137,opac-library-collection.pl,(, , , , , , , 
+138,cgi-bin,1111-NAMAL, , , , , , , 
+139,koha,), , , , , , , 
+140,opac-library-timings.pl,:, , , , , , , 
+141,cgi-bin,marketing, , , , , , , 
+142,koha,@, , , , , , , 
+143,opac-library-policy.pl,namal.edu.pk, , , , , , , 
+144,cgi-bin,©, , , , , , , 
+145,koha,Copyright, , , , , , , 
+146,opac-about-library.pl,2020, , , , , , , 
+147,cgi-bin, , , , , , , , 
+148,koha, , , , , , , , 
+149,opac-library-map.pl, , , , , , , , 
+150,cgi-bin, , , , , , , , 
+151,koha, , , , , , , , 
+152,opac-staff.pl, , , , , , , , 
+153,cgi-bin, , , , , , , , 
+154,koha, , , , , , , , 
+155,opac-membership.pl, , , , , , , , 
+156,cgi-bin, , , , , , , , 
+157,koha, , , , , , , , 
+158,opac-ebook.pl, , , , , , , , 
+159,cgi-bin, , , , , , , , 
+160,koha, , , , , , , , 
+161,opac-shelves.pl, , , , , , , , 
+162,?, , , , , , , , 
+163,viewshelf=2, , , , , , , , 
+164,&, , , , , , , , 
+165,sortfield=, , , , , , , , 
+166,cgi-bin, , , , , , , , 
+167,koha, , , , , , , , 
+168,opac-magzines.pl, , , , , , , , 
+169,#, , , , , , , , 
+170,http, , , , , , , , 
+171,:, , , , , , , , 
+172,allnewspapers, , , , , , , , 
+173,http, , , , , , , , 
+174,:, , , , , , , , 
+175,digitallibrary.edu.pk, , , , , , , , 
+176,namal_college.html, , , , , , , , 
+177,namal.edu.pk, , , , , , , , 
+178,http, , , , , , , , 
+179,:, , , , , , , , 
+180,doaj.org, , , , , , , , 
+181,#, , , , , , , , 
+182,#, , , , , , , , 
+183,cgi-bin, , , , , , , , 
+184,koha, , , , , , , , 
+185,opac-contact.pl, , , , , , , , 
+186,Links, , , , , , , , 
+187,namalknowledgecity, , , , , , , , 
+188,namalknowledgecity, , , , , , , , 
+189,donate, , , , , , , , 
+190,zakat, , , , , , , , 
+191,members.namalknowledgecity, , , , , , , , 
+192,facebook, , , , , , , , 
+193,NamalKC, , , , , , , , 
+194,twitter, , , , , , , , 
+195,namaledu, , , , , , , , 
+196,snapchat, , , , , , , , 
+197,add, , , , , , , , 
+198,namaleducationfoundation, , , , , , , , 
+199,instagram, , , , , , , , 
+200,namalknowledgecity, , , , , , , , 
+201,youtube, , , , , , , , 
+202,channel, , , , , , , , 
+203,UCWfFHczAYAn-mfqMgmmKsVQ, , , , , , , , 
+204,namalknowledgecity, , , , , , , , 
+205,donate, , , , , , , , 
+206,generic-donation, , , , , , , , 
+207,members.namalknowledgecity, , , , , , , , 
+208,namalknowledgecity, , , , , , , , 
+209,about, , , , , , , , 
+210,about, , , , , , , , 
+211,overview, , , , , , , , 
+212,about, , , , , , , , 
+213,founders-message, , , , , , , , 
+214,about, , , , , , , , 
+215,board-of-governors, , , , , , , , 
+216,about, , , , , , , , 
+217,namal-institute, , , , , , , , 
+218,campaigns, , , , , , , , 
+219,campaigns, , , , , , , , 
+220,100-cities-campaign, , , , , , , , 
+221,knowledge-city, , , , , , , , 
+222,knowledge-city, , , , , , , , 
+223,academic-block-1, , , , , , , , 
+224,events, , , , , , , , 
+225,events, , , , , , , , 
+226,u, , , , , , , , 
+227,ing-events, , , , , , , , 
+228,events, , , , , , , , 
+229,past-events, , , , , , , , 
+230,gallery, , , , , , , , 
+231,contact, , , , , , , , 
+232,faqs, , , , , , , , 
+233,#, , , , , , , , 
+234,carousel-example-generic, , , , , , , , 
+235,#, , , , , , , , 
+236,carousel-example-generic, , , , , , , , 
+237,namalknowledgecity, , , , , , , , 
+238,about-namal, , , , , , , , 
+239,shaping-those-who-shape-the-future, , , , , , , , 
+240,namalknowledgecity, , , , , , , , 
+241,news, , , , , , , , 
+242,dalawar-majid-chaudhry-visits-namal-institute, , , , , , , , 
+243,namalknowledgecity, , , , , , , , 
+244,news, , , , , , , , 
+245,groundbreaking-ceremony-of-namal-knowledge-city, , , , , , , , 
+246,namalknowledgecity, , , , , , , , 
+247,news, , , , , , , , 
+248,partnership-for-covid-19-prevention-strategy, , , , , , , , 
+249,namalknowledgecity, , , , , , , , 
+250,all_news, , , , , , , , 
+251,namalknowledgecity, , , , , , , , 
+252,events, , , , , , , , 
+253,u, , , , , , , , 
+254,ing-events, , , , , , , , 
+255,namalknowledgecity, , , , , , , , 
+256,events, , , , , , , , 
+257,u, , , , , , , , 
+258,ing-events, , , , , , , , 
+259,orlando-annual-fundraising-event, , , , , , , , 
+260,namalknowledgecity, , , , , , , , 
+261,events, , , , , , , , 
+262,u, , , , , , , , 
+263,ing-events, , , , , , , , 
+264,namal-convocation-class-of-2019, , , , , , , , 
+265,namalknowledgecity, , , , , , , , 
+266,events, , , , , , , , 
+267,u, , , , , , , , 
+268,ing-events, , , , , , , , 
+269,namal-graduation-night, , , , , , , , 
+270,namalknowledgecity, , , , , , , , 
+271,donate, , , , , , , , 
+272,generic-donation, , , , , , , , 
+273,namalknowledgecity, , , , , , , , 
+274,why-giving-matters, , , , , , , , 
+275,impact-stories, , , , , , , , 
+276,revolutionizing-rural-progress-4280, , , , , , , , 
+277,namalknowledgecity, , , , , , , , 
+278,why-giving-matters, , , , , , , , 
+279,impact-stories, , , , , , , , 
+280,namalites-unveil-solar-powered-car-5202, , , , , , , , 
+281,namalknowledgecity, , , , , , , , 
+282,why-giving-matters, , , , , , , , 
+283,impact-stories, , , , , , , , 
+284,leading-new-generation-of-students-6208, , , , , , , , 
+285,namalknowledgecity, , , , , , , , 
+286,why-giving-matters, , , , , , , , 
+287,impact-stories, , , , , , , , 
+288,advancing-academically-1966, , , , , , , , 
+289,facebook, , , , , , , , 
+290,NamalKC, , , , , , , , 
+291,namalknowledgecity, , , , , , , , 
+292,donate, , , , , , , , 
+293,zakat, , , , , , , , 
+294,namal.edu.pk, , , , , , , , 
+295,namalknowledgecity, , , , , , , , 
+296,campaigns, , , , , , , , 
+297,100-cities-campaign, , , , , , , , 
+298,namalknowledgecity, , , , , , , , 
+299,careers, , , , , , , , 
+300,internship, , , , , , , , 
+301,facebook, , , , , , , , 
+302,NamalKC, , , , , , , , 
+303,twitter, , , , , , , , 
+304,namaledu, , , , , , , , 
+305,snapchat, , , , , , , , 
+306,add, , , , , , , , 
+307,namaleducationfoundation, , , , , , , , 
+308,instagram, , , , , , , , 
+309,namalknowledgecity, , , , , , , , 
+310,youtube, , , , , , , , 
+311,channel, , , , , , , , 
+312,UCWfFHczAYAn-mfqMgmmKsVQ, , , , , , , , 
+313,namalknowledgecity, , , , , , , , 
